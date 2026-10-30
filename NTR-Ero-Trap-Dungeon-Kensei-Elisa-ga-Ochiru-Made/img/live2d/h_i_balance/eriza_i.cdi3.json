@@ -1,0 +1,564 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamHairFront1",
+			"GroupId": "ParamGroup6",
+			"Name": "髪揺れ　前1"
+		},
+		{
+			"Id": "ParamHairFront2",
+			"GroupId": "ParamGroup6",
+			"Name": "髪揺れ　前2"
+		},
+		{
+			"Id": "ParamHairSide1",
+			"GroupId": "ParamGroup6",
+			"Name": "髪揺れ　→横1"
+		},
+		{
+			"Id": "ParamHairSide2",
+			"GroupId": "ParamGroup6",
+			"Name": "髪揺れ　→横2"
+		},
+		{
+			"Id": "ParamHairSide3",
+			"GroupId": "ParamGroup6",
+			"Name": "髪揺れ　←横1"
+		},
+		{
+			"Id": "ParamHairSide4_",
+			"GroupId": "ParamGroup6",
+			"Name": "髪揺れ　←横2"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup6",
+			"Name": "髪揺れ　→後1"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup6",
+			"Name": "髪揺れ　→後2"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup6",
+			"Name": "髪揺れ　ハネ毛"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup6",
+			"Name": "髪揺れ　後"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup3",
+			"Name": "眉　変形"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup4",
+			"Name": "舌の揺れ"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup2",
+			"Name": "目　大小"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "→目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup2",
+			"Name": "←目　開閉"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup2",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup2",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup2",
+			"Name": "寄り目"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup2",
+			"Name": "ハート目"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup7",
+			"Name": "→胸揺れ　Y"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup7",
+			"Name": "→胸揺れ　X"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup7",
+			"Name": "←胸揺れ　Y"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup5",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup9",
+			"Name": "部下　ピストン"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup9",
+			"Name": "エリザ　ピストン　揺れ１"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup9",
+			"Name": "エリザ　ピストン　揺れ２"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup9",
+			"Name": "股　開閉"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup9",
+			"Name": "射精"
+		},
+		{
+			"Id": "Param46",
+			"GroupId": "ParamGroup9",
+			"Name": "◆射精"
+		},
+		{
+			"Id": "Param41",
+			"GroupId": "ParamGroup9",
+			"Name": "ドクドク"
+		},
+		{
+			"Id": "Param42",
+			"GroupId": "ParamGroup9",
+			"Name": "部下　お尻　揺れ"
+		},
+		{
+			"Id": "Param43",
+			"GroupId": "ParamGroup9",
+			"Name": "部下　胴体　揺れ"
+		},
+		{
+			"Id": "Param44",
+			"GroupId": "ParamGroup9",
+			"Name": "部下　←足　揺れ"
+		},
+		{
+			"Id": "Param45",
+			"GroupId": "ParamGroup9",
+			"Name": "陰茎　ビンビン"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup11",
+			"Name": "股ビク"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup11",
+			"Name": "腹ビク"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup11",
+			"Name": "←ふとももビク"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup11",
+			"Name": "→ふとももビク"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup11",
+			"Name": "胸部ビク"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup11",
+			"Name": "←胸ビク"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup11",
+			"Name": "→胸ビク"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup11",
+			"Name": "顔ビク"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup11",
+			"Name": "肩ビク"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup13",
+			"Name": "*ビクエフェクトON"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup13",
+			"Name": "★吐息ON"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup13",
+			"Name": "◆吐息スイッチ"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup13",
+			"Name": "★精液　した垂れ３ON"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup13",
+			"Name": "◆精液　した垂れ３スイッチ"
+		},
+		{
+			"Id": "Param40",
+			"GroupId": "ParamGroup13",
+			"Name": "★精液　した垂れ４ON"
+		},
+		{
+			"Id": "Param39",
+			"GroupId": "ParamGroup13",
+			"Name": "◆精液　した垂れ４スイッチ"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup14",
+			"Name": "水着ON"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup14",
+			"Name": "部下ON"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup14",
+			"Name": "挿入ON"
+		},
+		{
+			"Id": "Param38",
+			"GroupId": "ParamGroup14",
+			"Name": "精液　した垂れON"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup14",
+			"Name": "顔上げON"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup14",
+			"Name": "どんよりON"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup14",
+			"Name": "目ON"
+		},
+		{
+			"Id": "Param47",
+			"GroupId": "ParamGroup14",
+			"Name": "射精後"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "髪"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眉"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "口"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "目"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "顔"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "胸"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "体"
+		},
+		{
+			"Id": "ParamGroup15",
+			"GroupId": "",
+			"Name": "---パート２---"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "行為"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "ビク"
+		},
+		{
+			"Id": "ParamGroup13",
+			"GroupId": "",
+			"Name": "エフェクト"
+		},
+		{
+			"Id": "ParamGroup14",
+			"GroupId": "",
+			"Name": "切り替え"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part74",
+			"Name": "I字バランス 差分７_fix_加工済み.psd（対応無し）"
+		},
+		{
+			"Id": "Part72",
+			"Name": "I字バランス 差分７_fix_加工済み.psd（対応無し）"
+		},
+		{
+			"Id": "Part68",
+			"Name": "I字バランス 差分７_fix_加工済み.psd（対応無し）"
+		},
+		{
+			"Id": "Part2",
+			"Name": "見本"
+		},
+		{
+			"Id": "Part3",
+			"Name": "エフェクト"
+		},
+		{
+			"Id": "Part",
+			"Name": "部下"
+		},
+		{
+			"Id": "Part5",
+			"Name": "ガムテープ"
+		},
+		{
+			"Id": "Part4",
+			"Name": "エリザ"
+		},
+		{
+			"Id": "Part30",
+			"Name": "ポール"
+		},
+		{
+			"Id": "Part73",
+			"Name": "ポール"
+		},
+		{
+			"Id": "Part71",
+			"Name": "ポール"
+		},
+		{
+			"Id": "Part38",
+			"Name": "モデリング用"
+		},
+		{
+			"Id": "Part35",
+			"Name": "I字バランス_追加素材.psd"
+		},
+		{
+			"Id": "Part10",
+			"Name": "瞬き"
+		},
+		{
+			"Id": "Part6",
+			"Name": "眉　見本"
+		},
+		{
+			"Id": "Part16",
+			"Name": "口　見本"
+		},
+		{
+			"Id": "Part37",
+			"Name": "精液"
+		},
+		{
+			"Id": "Part32",
+			"Name": "コアパーツ"
+		},
+		{
+			"Id": "Part31",
+			"Name": "コアパーツ"
+		},
+		{
+			"Id": "Part36",
+			"Name": "顔上げ"
+		},
+		{
+			"Id": "Part7",
+			"Name": "眉"
+		},
+		{
+			"Id": "Part8",
+			"Name": "→目"
+		},
+		{
+			"Id": "Part9",
+			"Name": "←目"
+		},
+		{
+			"Id": "Part11",
+			"Name": "横髪"
+		},
+		{
+			"Id": "Part12",
+			"Name": "前髪"
+		},
+		{
+			"Id": "Part13",
+			"Name": "髪　ハネ"
+		},
+		{
+			"Id": "Part14",
+			"Name": "鼻"
+		},
+		{
+			"Id": "Part15",
+			"Name": "頬"
+		},
+		{
+			"Id": "Part17",
+			"Name": "口"
+		},
+		{
+			"Id": "Part18",
+			"Name": "顔"
+		},
+		{
+			"Id": "Part19",
+			"Name": "水着"
+		},
+		{
+			"Id": "Part20",
+			"Name": "勃起時　乳首"
+		},
+		{
+			"Id": "Part21",
+			"Name": "乳輪・乳首"
+		},
+		{
+			"Id": "Part22",
+			"Name": "胸"
+		},
+		{
+			"Id": "Part23",
+			"Name": "首"
+		},
+		{
+			"Id": "Part24",
+			"Name": "お尻　膨らみ"
+		},
+		{
+			"Id": "Part25",
+			"Name": "股"
+		},
+		{
+			"Id": "Part26",
+			"Name": "足"
+		},
+		{
+			"Id": "Part27",
+			"Name": "肩"
+		},
+		{
+			"Id": "Part28",
+			"Name": "胴体"
+		},
+		{
+			"Id": "Part29",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "Part41",
+			"Name": "エリザ"
+		},
+		{
+			"Id": "Part33",
+			"Name": "素材"
+		},
+		{
+			"Id": "Part51",
+			"Name": "鼻"
+		},
+		{
+			"Id": "Part34",
+			"Name": "*スライム"
+		}
+	]
+}

@@ -1,0 +1,153 @@
+・ID:0118 お仕置き部屋
+001 扉（お仕置き部屋）
+-1ページ目
+Tôi không thể rời đi cho đến khi hoàn thành việc huấn luyện.
+
+
+002 街頭
+-1ページ目
+
+
+003 街頭
+-1ページ目
+
+
+005 ハートマーク吹き出し
+-1ページ目
+
+-2ページ目
+
+
+006 初回敗北エリザ
+-1ページ目
+
+-2ページ目
+
+-3ページ目
+
+
+007 謎のコア
+-1ページ目
+Các mục menu hiện có
+・Huấn luyện sức bền thăng bằng I-character
+[Lv\V[119]]
+・Tra tấn ngực và huấn luyện sức bền [Lv\V[120]]
+Cân bằng hình chữ I
+Tra tấn ngực
+Hủy bỏ
+0
+Tôi đã hoàn thành tất cả huấn luyện sức bền thăng bằng I-character
+huấn luyện.
+1
+Tôi đã hoàn thành tất cả huấn luyện ngực và sức bền
+huấn luyện.
+2
+
+-2ページ目
+Tôi không thể tập luyện thêm nữa hôm nay.
+Chọn bộ phận bạn muốn tập luyện.
+Ngực
+Lồn
+Tôi sẽ bỏ qua
+0
+1
+2
+Tôi đã đi theo buổi huấn luyện của Elisa.
+Ngực
+Lồn
+Hủy bỏ
+0
+1
+2
+
+-3ページ目
+
+-4ページ目
+
+
+008 初回敗北部下
+-1ページ目
+
+-2ページ目
+
+-3ページ目
+
+
+009 エリアからの退場処理
+-1ページ目
+Ư…
+
+-2ページ目
+
+
+010 ポール
+-1ページ目
+
+
+011 初回イベント
+-1ページ目
+Ư…
+Còn chỗ này thì sao？
+Đó không phải là phòng trừng phạt mà con succubus đã
+nói đến sao？
+Quan trọng hơn, hãy nhìn cái này.
+Đây là… rất nhiều năng lượng ma thuật.
+Và nó có một luồng khí rất đáng ngại.
+C-Cái gì!？
+Cô ấy… đã làm gì với anh sao？
+Xin chào~？♪
+Giọng nói này… Aria？
+Anh ấy đã nói điều đó không liên quan gì đến tôi, nhưng nếu anh ấy
+đang ở trong phòng trừng phạt, có lẽ anh ấy đã bị mắc
+bẫy？
+Im đi!
+Mày đã làm gì tao？!
+Ufufu♪
+Phép thuật đó là dành cho anh đấy, anh biết không？
+Cho tôi sao？
+Đúng vậy. Đó là một loại phép thuật có thể ép buộc
+anh phải tập luyện.
+Hơn nữa, nó được thiết kế để rất tử tế vì nó
+tập trung vào điểm yếu của anh.
+Vậy sao？
+Nhưng cô không cần phải ép tôi tự tập luyện đâu.
+Đừng lo.
+Và cô đã nói sẽ huấn luyện điểm yếu của tôi…
+Tôi không nghĩ lũ quái vật các cô có thể phân tích chính xác
+điểm yếu của tôi.
+*thở dài* Tôi tự hỏi liệu cấp độ của mình có bị giảm và tôi
+đã trở nên ngu ngốc đến tận óc không？
+Dù ai nhìn vào thì điểm yếu của anh cũng không
+rõ ràng.
+Rõ ràng sao？
+\{Ngực và lồn.
+Cái gì!？
+Vậy thì, huấn luyện để tập luyện điểm yếu của anh…
+Chắc chắn đó không phải là huấn luyện tốt!
+Tôi không cần thứ đó!
+Thật không may, ý chí của anh chẳng liên quan gì đến
+chuyện này.
+Và phép thuật đó là do anh \C[18]Mỗi lần
+anh thua, anh lại trở nên mạnh hơn. \C[0] Wah.
+Đó là lẽ tự nhiên thôi, vì những đứa yếu cần nhiều hơn
+sự huấn luyện.♪
+Vậy thì, chúc may mắn!♪
+Ah!
+N-N-Này, Chờ đã!
+Con succubus đó nói chuyện giống hệt như Elisa đã từng trong
+quá khứ.
+Nếu tôi nhớ không lầm…
+「Anh yếu đuối. Anh phải tập luyện chăm chỉ hơn, phải
+không？」
+「Nếu anh không thể tự làm, tôi sẽ biến trái tim anh
+thành ác quỷ và ép anh tới giới hạn!」
+Phải không？
+Thật đau lòng khi ép buộc kẻ yếu phải tập luyện, nhưng điều đó
+là cần thiết, nên không thể khác được.
+Đó là một câu chuyện khác…
+Lần tới, tôi sẽ biến trái tim mình thành ác quỷ và
+tập luyện với anh vì lợi ích của Elisa.
+
+-2ページ目
+
+

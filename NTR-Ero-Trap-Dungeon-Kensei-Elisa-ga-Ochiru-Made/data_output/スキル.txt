@@ -1,0 +1,1424 @@
+・ID:0001 Tấn công
+
+ Tấn công của %1!
+
+スキル1番は攻撃コマンドに対応します。
+
+・ID:0002 Phòng thủ
+
+ %1 đang tự bảo vệ mình.
+
+スキル2番は防御コマンドに対応します。
+
+・ID:0003 —-Dự bị
+Sau đây là những kỹ năng bạn muốn hiển thị ở đầu Kỹ năng Chiến đấu khi mở menu.
+
+
+
+
+・ID:0004 
+
+
+
+
+
+・ID:0005 Tháo vũ khí
+Bất kỳ khiên hay vũ khí nào cũng có thể tạm thời tháo ra.
+
+
+
+
+・ID:0006 Xuyên tường (Sơ cấp)
+Có thể tạm thời lướt qua tường.
+
+
+
+
+・ID:0007 
+
+
+
+
+
+・ID:0008 
+
+
+
+
+
+・ID:0009 
+
+
+
+
+
+・ID:0010 
+
+
+
+
+
+・ID:0011 —-Kẻ địch
+
+
+
+
+
+・ID:0012 Tấn công liên tục
+Tấn công liên tục vào đơn vị kẻ địch.
+ Tấn công của %1!
+
+
+
+・ID:0013  thực hiện hai đòn tấn công.
+Tấn công ngẫu nhiên một kẻ địch hai lần.
+ Tấn công của %1!
+
+
+
+・ID:0014 Tấn công ba lần.
+Thực hiện 3 đòn tấn công vào một kẻ địch ngẫu nhiên.
+ Tấn công của %1!
+
+
+
+・ID:0015 Chạy trốn
+Người dùng rời khỏi trận đấu.
+ %1Ha đã bỏ chạy.
+
+
+
+・ID:0016 Tôi sẽ chờ xem sao.
+Tôi đã kiểm tra cô ấy.
+ %1 đang quan sát cô ấy.
+
+
+
+・ID:0017 Hút máu
+Hấp thụ HP của một kẻ địch.
+ %1Một đòn tấn công hút máu!
+
+
+
+・ID:0018 Thiền định
+Phục hồi HP cho người dùng.
+ %1Tôi đã thiền!
+
+
+
+・ID:0019 Kim gây tê
+Tôi đâm kẻ địch bằng kim gây tê liệt, khiến chúng tê liệt.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0020 Va chạm thân thể
+Gây sát thương cho một kẻ địch, khiến chúng mất thăng bằng.
+ %1 Tôi đã va vào cô ấy!
+
+
+
+・ID:0021 Sốc điện
+Gây sát thương hệ sét cho một đơn vị kẻ địch, khiến chúng tê liệt.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0022 Chất nhầy
+Dính chất nhầy vào một kẻ địch làm giảm tốc độ của nó.
+ %1Tôi đã phun chất nhầy vào cô ấy!
+
+
+
+・ID:0023 Độc
+Phun độc vào một kẻ địch, khiến nó trúng độc.
+ %1 đã dùng %2!
+
+
+
+・ID:0024 Tiếng gầm
+Khơi dậy tinh thần chiến đấu của người dùng và tăng cường năng lực.
+ %1Tôi- Nó đã tiếp thêm tinh thần chiến đấu cho tôi!
+
+
+
+・ID:0025 Điệu nhảy kỳ lạ
+Hấp thụ MP của một kẻ địch.
+ %1Tôi đã nhảy một điệu kỳ lạ!
+
+
+
+・ID:0026 Ánh mắt tê liệt
+Cô ấy trừng mắt vào một kẻ địch, khiến nó tê liệt.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0027 Chổi mắt
+Tôi khiến một kẻ địch rơi vào bóng tối.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0028 Sunakemuri
+Khiến toàn bộ kẻ địch chìm trong bóng tối.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0029 Đèn flash
+Khiến toàn bộ kẻ địch chìm trong bóng tối.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0030 Sương độc
+Khiến toàn bộ kẻ địch trúng độc.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0031 Bài hát ru
+Khiến toàn bộ kẻ địch vào trạng thái ngủ.
+ %1Tôi đã hát ru!
+
+
+
+・ID:0032 Bài hát quyến rũ
+Mê hoặc toàn bộ kẻ địch.
+ %1Tôi đã hát bài quyến rũ!
+
+
+
+・ID:0033 Bài hát im lặng
+Phong ấn phép thuật của toàn bộ kẻ địch.
+ %1 đã hát bài hát im lặng!
+
+
+
+・ID:0034 Sóng siêu âm
+Khiến toàn bộ kẻ địch rơi vào trạng thái lú lẫn.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0035 Nghiền đá
+Gây sát thương hệ đất cho toàn bộ kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0036 Kamaitachi
+Gây sát thương hệ gió cho toàn bộ kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0037 Hơi thở lửa
+Gây sát thương hệ hỏa cho toàn bộ kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0038 Hơi thở băng
+Gây sát thương hệ băng cho toàn bộ kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0039 Động đất
+Gây sát thương hệ đất cho toàn bộ kẻ địch.
+ %1Ha đã gây ra động đất!
+
+
+
+・ID:0040 Sóng thần
+Gây sát thương hệ nước cho toàn bộ kẻ địch.
+ %1 đã tạo ra sóng thần!
+
+
+
+・ID:0041 *hic* *hic*
+Gây sát thương cho một kẻ địch.
+ Tấn công của %1!
+
+
+
+・ID:0042 
+
+
+
+
+
+・ID:0043 
+
+
+
+
+
+・ID:0044 
+
+
+
+
+
+・ID:0045 
+
+
+
+
+
+・ID:0046 
+
+
+
+
+
+・ID:0047 
+
+
+
+
+
+・ID:0048 
+
+
+
+
+
+・ID:0049 
+
+
+
+
+
+・ID:0050 
+
+
+
+
+
+・ID:0051 —-Phép cơ bản
+
+
+
+
+
+・ID:0052 Hồi phục I
+Phục hồi HP cho một đồng minh.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0053 Hồi phục II
+Phục hồi HP cho một đồng minh.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0054 Hồi phục III
+Phục hồi HP cho một đồng minh.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0055 
+
+
+
+
+
+・ID:0056 Phục hồi I
+Phục hồi HP cho tất cả đồng minh.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0057 Phục hồi II
+Phục hồi HP cho tất cả đồng minh.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0058 Phục hồi III
+Phục hồi HP cho tất cả đồng minh.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0059 
+
+
+
+
+
+・ID:0060 Giải độc I
+Chữa độc, tê liệt, và ngủ cho một đồng minh.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0061 Giải độc II
+Chữa các trạng thái xấu ngoại trừ mất năng lực cho một đồng minh.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0062 Giải độc III
+Chữa các trạng thái xấu ngoại trừ mất năng lực cho tất cả đồng minh.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0063 
+
+
+
+
+
+・ID:0064 Hồi sinh I
+Hồi sinh một đồng minh khỏi trạng thái mất năng lực.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0065 Hồi sinh II
+Hồi sinh một đồng minh khỏi trạng thái mất năng lực trong trận chiến và phục hồi nhiều HP.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0066 
+
+
+
+
+
+・ID:0067 
+
+
+
+
+
+・ID:0068 
+
+
+
+
+
+・ID:0069 
+
+
+
+
+
+・ID:0070 
+
+
+
+
+
+・ID:0071 Độc
+Khiến toàn bộ kẻ địch trúng độc.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0072 Mù
+Khiến toàn bộ kẻ địch chìm trong bóng tối.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0073 Lú lẫn
+Khiến toàn bộ kẻ địch rơi vào trạng thái lú lẫn.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0074 Im lặng
+Phong ấn phép thuật của toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0075 Ngủ
+Khiến toàn bộ kẻ địch vào trạng thái ngủ.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0076 Tê liệt
+Làm tê liệt toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0077 
+
+
+
+
+
+・ID:0078 
+
+
+
+
+
+・ID:0079 
+
+
+
+
+
+・ID:0080 
+
+
+
+
+
+・ID:0081 Hơi thở vũ khí
+Tăng sức tấn công của một đồng minh.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0082 Nguyền vũ khí
+Giảm sức tấn công của toàn bộ kẻ địch.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0083 Hơi thở giáp
+Tăng phòng thủ của một đồng minh.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0084 Nguyền giáp
+Giảm phòng thủ của toàn bộ kẻ địch.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0085 Hơi thở tinh thần
+ Tăng sức mạnh phép thuật của một đồng minh.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0086 Nguyền tinh thần
+Giảm sức mạnh phép thuật của toàn bộ kẻ địch.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0087 Hơi thở thần thánh
+ Tăng phòng thủ phép thuật của một đồng minh.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0088 Nguyền thần thánh
+Giảm phòng thủ phép thuật của toàn bộ kẻ địch.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0089 Di chuyển nhanh
+Tăng tốc độ của một đồng minh.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0090 Di chuyển chậm
+Giảm tốc độ của toàn bộ kẻ địch.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0091 Hút sinh lực
+Hấp thụ HP của một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0092 Hút mana
+Hấp thụ MP của một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0093 
+
+
+
+
+
+・ID:0094 
+
+
+
+
+
+・ID:0095 
+
+
+
+
+
+・ID:0096 
+
+
+
+
+
+・ID:0097 
+
+
+
+
+
+・ID:0098 
+
+
+
+
+
+・ID:0099 Lửa I
+Gây sát thương hệ hỏa cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0100 Lửa II
+Gây sát thương hệ hỏa cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0101 Lửa III
+Gây sát thương hệ hỏa cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0102 
+
+
+
+
+
+・ID:0103 Hỏa diệm I
+Gây sát thương hệ hỏa cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0104 Hỏa diệm II
+Gây sát thương hệ hỏa cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0105 Hỏa diệm III
+Gây sát thương hệ hỏa cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0106 
+
+
+
+
+
+・ID:0107 Băng I
+Gây sát thương hệ băng cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0108 Băng II
+Gây sát thương hệ băng cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0109 Băng III
+Gây sát thương hệ băng cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0110 
+
+
+
+
+
+・ID:0111 Bão tuyết I
+Gây sát thương hệ băng cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0112 Bão tuyết II
+Gây sát thương hệ băng cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0113 Bão tuyết III
+Gây sát thương hệ băng cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0114 
+
+
+
+
+
+・ID:0115 Sét I
+Gây sát thương hệ sét cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0116 Sét II
+Gây sát thương hệ sét cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0117 Sét III
+Gây sát thương hệ sét cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0118 
+
+
+
+
+
+・ID:0119 Tia lửa I
+Gây sát thương hệ sét cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0120 Tia lửa II
+Gây sát thương hệ sét cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0121 Tia lửa III
+Gây sát thương hệ sét cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0122 
+
+
+
+
+
+・ID:0123 Nước I
+Gây sát thương hệ nước cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0124 Nước II
+Gây sát thương hệ nước cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0125 
+
+
+
+
+
+・ID:0126 Sóng I
+Gây sát thương hệ nước cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0127 Sóng II
+Gây sát thương hệ nước cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0128 
+
+
+
+
+
+・ID:0129 Đá I
+Gây sát thương hệ đất cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0130 Đá II
+Gây sát thương hệ đất cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0131 
+
+
+
+
+
+・ID:0132 Quéïc I
+Gây sát thương hệ đất cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0133 Quéïc II
+Gây sát thương hệ đất cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0134 
+
+
+
+
+
+・ID:0135 Gió I
+Gây sát thương hệ gió cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0136 Gió II
+Gây sát thương hệ gió cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0137 
+
+
+
+
+
+・ID:0138 Lốc xoáy I
+Gây sát thương hệ gió cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0139 Lốc xoáy II
+Gây sát thương hệ gió cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0140 
+
+
+
+
+
+・ID:0141 Thánh I
+Gây sát thương hệ ánh sáng cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0142 Thánh II
+Gây sát thương hệ ánh sáng cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0143 
+
+
+
+
+
+・ID:0144 Ánh sao I
+Gây sát thương hệ ánh sáng cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0145 Ánh sao II
+Gây sát thương hệ ánh sáng cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0146 
+
+
+
+
+
+・ID:0147 Bóng tối I
+Gây sát thương hệ bóng tối cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0148 Bóng tối II
+Gây sát thương hệ bóng tối cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0149 
+
+
+
+
+
+・ID:0150 Tối tăm I
+Gây sát thương hệ bóng tối cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0151 Tối tăm II
+Gây sát thương hệ bóng tối cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0152 
+
+
+
+
+
+・ID:0153 Nổ I
+Gây sát thương xuyên phòng thủ cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0154 Nổ II
+Gây sát thương xuyên phòng thủ cho một kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0155 
+
+
+
+
+
+・ID:0156 Hạt nhân I
+Gây sát thương xuyên phòng thủ cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0157 Hạt nhân II
+Gây sát thương xuyên phòng thủ cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0158 
+
+
+
+
+
+・ID:0159 
+
+
+
+
+
+・ID:0160 
+
+
+
+
+
+・ID:0161 
+
+
+
+
+
+・ID:0162 
+
+
+
+
+
+・ID:0163 
+
+
+
+
+
+・ID:0164 
+
+
+
+
+
+・ID:0165 
+
+
+
+
+
+・ID:0166 
+
+
+
+
+
+・ID:0167 
+
+
+
+
+
+・ID:0168 
+
+
+
+
+
+・ID:0169 
+
+
+
+
+
+・ID:0170 
+
+
+
+
+
+・ID:0171 —-Kỹ năng kiếm sĩ
+
+
+
+
+
+・ID:0172 Đòn mạnh
+Một đòn tấn công mạnh mẽ vào một kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0173 Quét sạch
+Tấn công toàn bộ kẻ địch.
+ %1 Tôi đã quét sạch!
+
+
+
+・ID:0174 Tấn công liên tục
+Tấn công một kẻ địch hai lần.
+ %1Một loạt đòn tấn công!
+
+
+
+・ID:0175 Tinh thần chiến đấu
+Tăng tinh thần chiến đấu của người dùng và tăng sức tấn công.
+Có thể cộng dồn hai lần.
+ %1 đã dùng %2!
+
+
+
+・ID:0176 Sơ cứu
+Phục hồi HP cho một đồng minh.
+ %1Ha %2 Nó đã đi!
+
+
+
+・ID:0177 Tư thế thiếu nữ
+Một đòn tấn công siêu mạnh vào một kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0178 Quay va chạm
+Thực hiện một đòn tấn công mạnh vào toàn bộ kẻ địch.
+ %1 Tôi đã quét sạch!
+
+
+
+・ID:0179 
+
+
+
+
+
+・ID:0180 
+
+
+
+
+
+・ID:0181 
+
+
+
+
+
+・ID:0182 
+
+
+
+
+
+・ID:0183 
+
+
+
+
+
+・ID:0184 
+
+
+
+
+
+・ID:0185 —-Kỹ năng tu sĩ và pháp sư
+
+
+
+
+
+・ID:0186 Rào chắn ma thuật
+Tăng phòng thủ và phòng thủ phép thuật cho tất cả đồng minh.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã cầu nguyện!
+
+
+
+・ID:0187 Cường hóa phép
+Trong năm lượt, tăng mạnh sức mạnh phép thuật của người dùng.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0188 Orla
+Khơi dậy tinh thần chiến đấu của toàn bộ đồng minh, tăng sức tấn công.
+Có thể cộng dồn hai lần.
+ %1 Tôi đã cổ vũ mọi người!
+
+
+
+・ID:0189 Thiên thạch
+Gây sát thương xuyên phòng thủ cho toàn bộ kẻ địch.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0190 Vũ khí lửa
+Khiến vũ khí mang thuộc tính Hỏa trong 5 lượt.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0191 Vũ khí băng
+Khiến vũ khí mang thuộc tính Băng trong 5 lượt.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0192 Vũ khí sét
+Khiến vũ khí mang thuộc tính Sét trong 5 lượt.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0193 Gương ma thuật
+Phản chiếu phép tấn công nhắm vào người dùng trong 5 lượt.
+ %1 Tôi đã niệm %2 !
+
+
+
+・ID:0194 
+
+
+
+
+
+・ID:0195 —-Kỹ năng hiệp sĩ
+
+
+
+
+
+・ID:0196 Che chở
+Tự động bảo vệ đồng minh có HP thấp trong một lượt.
+ %1 đang bảo vệ bạn bè.
+
+
+
+・ID:0197 Hayatotsuki
+Tôi sẽ tấn công kẻ địch nhanh hơn bất kỳ ai.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0198 Đâm hai phần
+Tấn công một kẻ địch hai lần.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0199 Yoroi Toshi
+Gây sát thương xuyên phòng thủ cho toàn bộ kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0200 Ichikake
+Khơi dậy tinh thần chiến đấu của toàn bộ đồng minh, tăng sức tấn công.
+Có thể cộng dồn hai lần.
+ %1Ha đã hét lên!
+
+
+
+・ID:0201 Cối xay gió
+Tấn công toàn bộ kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0202 Tan vỡ trái tim
+Tăng một chút TP cho người dùng.
+ %1Ha đã mất trái tim!
+
+
+
+・ID:0203 Đâm loạn
+Thực hiện 4 đòn tấn công ngẫu nhiên vào 4 kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0204 
+
+
+
+
+
+・ID:0205 —-Kỹ năng đạo tặc
+
+
+
+
+
+・ID:0206 Chổi mắt
+Tôi khiến một kẻ địch rơi vào bóng tối.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0207 Bài tập khởi động
+Tăng tốc độ của người dùng.
+ %1Ha %2 Nó đã bắt đầu!
+
+
+
+・ID:0208 Bom chớp
+Khiến toàn bộ kẻ địch chìm trong bóng tối.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0209 Tôi sẽ chờ sơ hở.
+Tăng tỉ lệ rơi vật phẩm.
+ %1Tôi đang chờ sơ hở.
+
+
+
+・ID:0210 Fuuyou
+Gây sát thương hệ gió cho toàn bộ kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0211 Ẩn nấp
+Làm cho khó bị nhắm mục tiêu hơn.
+ %1Tôi đã ẩn nấp.
+
+
+
+・ID:0212 
+
+
+
+
+
+・ID:0213 
+
+
+
+
+
+・ID:0214 
+
+
+
+
+
+・ID:0215 —-Kỹ năng võ sư
+
+
+
+
+
+・ID:0216 Quét chân
+Gây sát thương cho toàn bộ kẻ địch, làm chúng mất thăng bằng.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0217 Fossil Arts
+Chữa trị trạng thái suy yếu cho người dùng.
+ %1 đã dùng %2!
+
+
+
+・ID:0218 Đá vòng cầu
+Gây sát thương lớn cho toàn bộ kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0219 Takeru Ranbu
+Gây sát thương xuyên phòng thủ cho một kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0220 
+
+
+
+
+
+・ID:0221 
+
+
+
+
+
+・ID:0222 
+
+
+
+
+
+・ID:0223 
+
+
+
+
+
+・ID:0224 
+
+
+
+
+
+・ID:0225 —-Kỹ năng thợ săn
+
+
+
+
+
+・ID:0226 Bắn điểm
+Giảm sức tấn công và phòng thủ của một kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0227 Stanshot
+Đánh vào chân toàn bộ kẻ địch, làm chúng mất thăng bằng.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0228 Team Shot
+Gây 5 sát thương cho một đơn vị kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0229 Bắn mưa
+Gây 2 sát thương cho toàn bộ kẻ địch.
+ %1Ha %2 Tôi đã bắn!
+
+
+
+・ID:0230 
+
+
+
+
+
+・ID:0231 
+
+
+
+
+
+・ID:0232 
+
+
+
+
+
+・ID:0233 
+
+
+
+
+
+・ID:0234 
+
+
+
+
+
+・ID:0235 
+
+
+
+
+

@@ -1,0 +1,75 @@
+・ID:0029 塔(使用)
+001 EV001
+-1ページ目
+
+
+002 扉（出られない部屋(イベ邂逅用)）
+-1ページ目
+
+
+004 \N[9]
+-1ページ目
+Xin lỗi vì đã để bạn chờ, nhưng đây là
+hầm ngục được chỉ định.
+Thôi nào…
+Có chuyện gì vậy？
+Elisa…\!
+Anh xin lỗi vì chỉ có mình em gặp nguy hiểm.
+Em sẽ ổn thôi.
+Nhưng cảm ơn anh đã lo lắng cho em.
+Vả lại, anh đã hứa sẽ kết hôn nếu anh
+có thể thay đổi đất nước này.
+Vậy nên đừng lo lắng.
+*hôn*♡
+Được rồi, em đi đây.
+Ừ, chúc em may mắn.
+
+-2ページ目
+
+-3ページ目
+
+
+005 EV005
+-1ページ目
+
+
+006 EV006
+-1ページ目
+
+
+007 EV007
+-1ページ目
+
+
+008 EV008
+-1ページ目
+
+
+009 EV009
+-1ページ目
+
+
+010 EV010
+-1ページ目
+
+
+012 エリザ/帰還
+-1ページ目
+
+-2ページ目
+
+-3ページ目
+
+
+013 馬車
+-1ページ目
+
+
+014 馬車馬
+-1ページ目
+
+
+015 EV015
+-1ページ目
+
+

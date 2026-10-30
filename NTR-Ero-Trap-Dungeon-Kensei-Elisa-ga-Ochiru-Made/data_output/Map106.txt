@@ -1,0 +1,175 @@
+・ID:0106 エリア１緑２
+001 入場セリフ
+-1ページ目
+*hổn hển* *hổn hển*♡
+Cái quái gì mà toàn là bẫy kỳ lạ thế này？!
+Bẫy bình thường thì hoàn toàn ổn nếu không có bất kỳ
+trang bị nào!
+……。
+Cậu…
+Không biết mình có thể dùng phép thuật hữu ích nào không？
+Ah～, tôi có thể làm cho bẫy hiện rõ, nhưng…
+Nếu cậu dùng được thì nói tôi biết trước đi!
+Nhưng phép này chỉ có tác dụng với bản thân tôi thôi.
+Ồ, ra vậy.
+Vậy thì, cậu có thể cho tôi biết bẫy ở đâu không？
+
+-2ページ目
+
+
+002 魔力水晶
+-1ページ目
+Tinh thể Phép thuật (Midori) Đã nhận.
+
+-2ページ目
+
+
+003 絶頂床
+-1ページ目
+
+
+004 魔力水晶捧げる
+-1ページ目
+Thiết lập tinh thể ma thuật？
+Có
+Không
+0
+Tôi không có tinh thể.
+1
+
+-2ページ目
+
+
+005 スライム
+-1ページ目
+
+
+006 スライム
+-1ページ目
+
+
+007 スライム
+-1ページ目
+
+
+008 絶頂床
+-1ページ目
+
+
+009 スライム
+-1ページ目
+
+
+010 スライム
+-1ページ目
+
+
+011 スライム
+-1ページ目
+
+
+012 スライム
+-1ページ目
+
+
+013 スライム
+-1ページ目
+
+
+014 スライム
+-1ページ目
+
+
+015 スライム
+-1ページ目
+
+
+016 開扉
+-1ページ目
+
+
+017 催眠ザコ
+-1ページ目
+
+
+018 移動（エリア緑１）
+-1ページ目
+
+
+019 帰還セリフ
+-1ページ目
+
+
+020 魔力水晶右
+-1ページ目
+
+
+021 魔力水晶捧げる
+-1ページ目
+Thiết lập tinh thể ma thuật？
+Có
+Không
+0
+Tôi không có tinh thể.
+1
+
+-2ページ目
+
+
+022 魔力水晶左
+-1ページ目
+
+
+023 帰還
+-1ページ目
+Có vẻ như chúng ta sẽ tiếp tục đi từ đây,
+nhưng có vẻ nó sẽ không mở ra trừ khi
+chúng ta làm gì đó.
+Cậu có manh mối gì ở các bệ đỡ bên trái và
+bên phải không？
+
+-2ページ目
+Chúng ta cần thêm một tinh thể nữa.
+
+-3ページ目
+
+
+024 催眠ザコ
+-1ページ目
+
+
+025 帰還扉開きイベ
+-1ページ目
+Có vẻ chúng ta có thể tiếp tục với cái này.
+
+-2ページ目
+
+
+028 トラップ（快楽耐性）
+-1ページ目
+
+
+029 トラップ（快楽耐性）
+-1ページ目
+
+
+030 トラップ（快楽耐性）
+-1ページ目
+
+
+031 トラップ（快楽耐性）
+-1ページ目
+
+
+032 トラップ（快楽耐性）
+-1ページ目
+
+
+035 絶頂床
+-1ページ目
+
+
+036 絶頂床
+-1ページ目
+
+

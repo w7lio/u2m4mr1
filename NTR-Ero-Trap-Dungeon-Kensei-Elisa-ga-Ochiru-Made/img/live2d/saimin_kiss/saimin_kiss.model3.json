@@ -1,0 +1,51 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "saimin_kiss.moc3",
+		"Textures": [
+			"saimin_kiss.4096/texture_00.png"
+		],
+		"Physics": "saimin_kiss.physics3.json",
+		"DisplayInfo": "saimin_kiss.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "exp_01",
+				"File": "expressions/exp_01.exp3.json"
+			},
+			{
+				"Name": "exp_02",
+				"File": "expressions/exp_02.exp3.json"
+			},
+			{
+				"Name": "exp_03",
+				"File": "expressions/exp_03.exp3.json"
+			},
+			{
+				"Name": "exp_04",
+				"File": "expressions/exp_04.exp3.json"
+			}
+		],
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motions/idle_01.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

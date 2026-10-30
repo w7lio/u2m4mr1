@@ -1,0 +1,43 @@
+{
+	"Type": "Live2D Pose",
+	"Groups": [
+		[
+			{
+				"Id": "PartEyesA",
+				"Link": []
+			},
+			{
+				"Id": "PartEyesB",
+				"Link": []
+			},
+			{
+				"Id": "PartEyesC",
+				"Link": []
+			},
+			{
+				"Id": "PartEyesD",
+				"Link": []
+			}
+		],
+		[
+			{
+				"Id": "PartBukaUdeA",
+				"Link": []
+			},
+			{
+				"Id": "PartBukaUdeB",
+				"Link": []
+			}
+		],
+		[
+			{
+				"Id": "PartSitaNashi",
+				"Link": []
+			},
+			{
+				"Id": "PartSitaA",
+				"Link": []
+			}
+		]
+	]
+}

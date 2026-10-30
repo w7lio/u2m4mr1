@@ -1,0 +1,168 @@
+・ID:0110 エリア３氷２
+001 男専用
+-1ページ目
+
+-2ページ目
+Tôi không thể đi qua vì hàng rào.
+
+
+002 女専用
+-1ページ目
+Bạn đang làm gì vậy？ Tiếp tục đi thôi.
+Có vẻ như chỉ mình Elisa là có thể
+đi qua hàng rào này.
+Tôi hiểu rồi…
+Có thể điều kiện để qua hàng rào
+được chia theo giới tính.
+Tôi sẽ tiếp tục từ đây. Bạn thử tìm
+một con đường khác nhé.
+Được rồi, được rồi.
+
+-2ページ目
+
+
+003 エリザ
+-1ページ目
+
+-2ページ目
+
+
+004 帰還
+-1ページ目
+Trước tiên hãy đặt viên pha lê.
+
+-2ページ目
+Chúng ta cần thêm một tinh thể nữa.
+
+-3ページ目
+
+
+005 部下滑り始め
+-1ページ目
+Ồ!\.\.\^
+Kyaahhh!!
+Cảm ơn vì đã dùng ngực tôi làm đệm. Đúng là
+ngực của tôi mà.
+ーーー!!
+Hả？
+Bình thường anh không phản đối và nổi giận à？
+（Tên này… Hắn biết mình đang làm gì mà!）
+Thôi, chúng ta vừa dừng trước phòng, vậy
+tiếp tục đi thôi.
+Anh định chạm vào tôi đến bao giờ？!
+Tch… Thôi kệ đi.
+Từ giờ sẽ có nhiều cơ hội để chà xát mà,
+dù sao đi nữa.
+
+
+006 開扉
+-1ページ目
+
+
+007 開扉
+-1ページ目
+
+
+008 開扉
+-1ページ目
+
+
+009 開扉
+-1ページ目
+
+
+010 開扉
+-1ページ目
+
+
+011 開扉
+-1ページ目
+
+
+012 開扉
+-1ページ目
+
+
+013 開扉
+-1ページ目
+
+
+014 通れないエリザ
+-1ページ目
+
+
+015 移動（小部屋２）
+-1ページ目
+
+
+016 通れない部下
+-1ページ目
+
+
+017 魔力水晶捧げる
+-1ページ目
+Thiết lập tinh thể ma thuật？
+Có
+Không
+0
+Tôi không có tinh thể.
+1
+
+-2ページ目
+
+
+018 魔力水晶捧げる
+-1ページ目
+Thiết lập tinh thể ma thuật？
+Có
+Không
+0
+Tôi không có tinh thể.
+1
+
+-2ページ目
+
+
+019 魔力水晶左
+-1ページ目
+
+
+020 魔力水晶右
+-1ページ目
+
+
+021 EV021
+-1ページ目
+
+
+022 EV022
+-1ページ目
+
+
+023 EV023
+-1ページ目
+
+
+024 EV024
+-1ページ目
+
+
+025 EV025
+-1ページ目
+
+
+026 EV026
+-1ページ目
+
+
+027 帰還扉開きイベ
+-1ページ目
+Có vẻ chúng ta có thể tiếp tục với cái này.
+
+-2ページ目
+
+
+028 通行禁止
+-1ページ目
+
+

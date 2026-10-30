@@ -1,0 +1,87 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "sirimomi.moc3",
+		"Textures": [
+			"sirimomi.8192/texture_00.png"
+		],
+		"Physics": "sirimomi.physics3.json",
+		"DisplayInfo": "sirimomi.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "exp_01",
+				"File": "expressions/exp_01.exp3.json"
+			},
+			{
+				"Name": "exp_02",
+				"File": "expressions/exp_02.exp3.json"
+			}
+		],
+		"Motions": {
+			"Pose": [
+				{
+					"File": "motions/pose_02.motion3.json",
+					"FadeInTime": 0.1,
+					"FadeOutTime": 0.1
+				},
+				{
+					"File": "motions/pose_01.motion3.json",
+					"FadeInTime": 0.1,
+					"FadeOutTime": 0.1
+				}
+			],
+			"Idle": [
+				{
+					"File": "motions/idle_01.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"Mtn": [
+				{
+					"File": "motions/mtn_01-1.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/mtn_01-2.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/mtn_02-1.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/mtn_02-2.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/mtn_02-3.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/mtn_02-4.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

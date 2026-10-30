@@ -1,0 +1,57 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "ne_back.moc3",
+		"Textures": [
+			"ne_back.8192/texture_00.png"
+		],
+		"Physics": "ne_back.physics3.json",
+		"DisplayInfo": "ne_back.cdi3.json",
+		"Motions": {
+			"": [
+				{
+					"File": "motions/mtn_bikubiku_01.motion3.json"
+				},
+				{
+					"File": "motions/mtn_finish_01.motion3.json"
+				},
+				{
+					"File": "motions/mtn_finish_02.motion3.json"
+				},
+				{
+					"File": "motions/mtn_guriguri_01.motion3.json",
+					"FadeInTime": 5,
+					"FadeOutTime": 1
+				},
+				{
+					"File": "motions/mtn_pisuton_01.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/mtn_pisuton_02.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"Idle": [
+				{
+					"File": "motions/mtn_idle_01.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

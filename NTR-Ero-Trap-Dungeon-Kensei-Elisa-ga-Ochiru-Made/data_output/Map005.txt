@@ -1,0 +1,987 @@
+・ID:0005 拠点部屋テンプレ削除予定
+001 魔法陣（拠点部屋テンプレ）
+-1ページ目
+Bạn có muốn vào hầm ngục không？
+Chúng ta nên rời khỏi đây chứ？
+Có
+Không
+0
+Chọn một điểm đến.
+？？？
+Hủy bỏ
+0
+1
+？？？
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+？？？
+en(!v[43]>0)Khu vực nước
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+3
+Khu vực băng
+en(!v[43]>0)Khu vực nước
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+3
+？？？
+en(!v[43]>0)Khu vực băng
+en(!v[43]>0)Khu vực nước
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+3
+4
+？？？
+en(!v[43]>0)Khu vực không gian
+en(!v[43]>0)Khu vực băng
+en(!v[43]>0)Khu vực nước
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+3
+4
+5
+？？？
+en(!v[43]>0)Khu vực tàn tích
+en(!v[43]>0)Khu vực không gian
+en(!v[43]>0)Khu vực băng
+en(!v[43]>0)Khu vực nước
+en(!v[43]>0)Khu vực tự nhiên
+0
+1
+2
+3
+4
+5
+Hủy bỏ
+0
+Vẫn còn quá sớm để trốn thoát.
+Tôi không thể rời đi cho đến khi làm cho Elisa hiểu ra.
+1
+
+-2ページ目
+Bạn có muốn vào hầm ngục không？
+Chúng ta nên rời khỏi đây chứ？
+Có
+Không
+0
+Vẫn còn quá sớm để trốn thoát.
+Tôi không thể rời đi cho đến khi làm cho Elisa hiểu ra.
+1
+
+-3ページ目
+Chúng ta có nhiều thời gian.
+Có lẽ tôi sẽ phải huấn luyện cô ấy thật kỹ trước khi
+rời đi, phòng khi cần.
+Chúng ta nên rời khỏi đây chứ
+（Bạn sẽ không thể quay lại phòng này.）
+Có
+Không
+0
+1
+
+-4ページ目
+Bạn có muốn vào hầm ngục không？
+Chúng ta nên rời khỏi đây chứ？
+Có
+Không
+0
+Vẫn còn quá sớm để trốn thoát.
+Tôi không thể rời đi cho đến khi làm cho Elisa hiểu ra.
+1
+
+-5ページ目
+Hãy nghỉ ngơi và hồi phục mệt mỏi nào.
+
+-6ページ目
+Elisa trông như muốn nói điều gì đó.
+
+-7ページ目
+Đi đến hầm ngục à？
+Có
+Không
+0
+1
+
+-8ページ目
+？？？
+en(s[266])Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+？？？
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+
+
+002 エリザ♡吹き出し
+-1ページ目
+
+
+003 料理
+-1ページ目
+Đây là nhà bếp.
+Thậm chí còn có nguyên liệu được chuẩn bị cẩn thận.
+Tôi mừng là chúng ta đã giữ được mạng sống ở mức
+tối thiểu.
+
+-2ページ目
+
+-3ページ目
+Bạn làm món gì？\.\.\^
+Cà ri đơn giản？
+Hủy bỏ
+0
+Ngay cả khi anh bảo tôi nấu ăn…
+Ngay cả khi có nguyên liệu, anh cũng sẽ không
+thể làm được một bữa ăn tử tế nếu không có công thức…
+Elisa？
+Có chuyện gì vậy？
+Tôi có một ít bột cà ri. Anh biết nấu cà ri không？
+Chẳng phải rõ ràng sao？
+Anh không biết nấu cà ri à？
+Tôi chưa từng nấu ăn bao giờ…
+Thôi được. Để tôi mượn một lúc.
+Đây là cách nấu cà ri.
+Uhyooo!
+Được ăn đồ ăn Elisa nấu cứ như là
+vợ chồng ấy!
+Ngày mai anh sẽ nấu, nên đừng có ngu ngốc
+mà nhớ đấy.
+…………
+Elisa, cô bị thương rồi…
+C-Câm mồm.
+Cũng có lúc thế!
+Anh làm cho tôi, nên im lặng và ăn đi.
+Ngay từ đầu, ngay cả khi anh làm cháy cà ri, thì cũng
+chẳng thay đổi được gì.
+（Pakku）
+（Ụa… Đắng quá…）
+1
+
+-4ページ目
+
+-5ページ目
+Bạn làm món gì？\.\.\^
+Cà ri đơn giản
+en(v[82]>=1 && v[83]>=1 && v[84]>=1) Gratin Ký Ức
+Hủy bỏ
+0
+1
+2
+Cà ri đơn giản
+Hủy bỏ
+0
+1
+Bạn làm món gì？\.\.\^
+Cà ri đơn giản
+en(s[266] && s[269])\V[85]
+en(s[267] && s[270])\V[86]
+en(s[268] && s[271])\V[87]
+Hủy bỏ
+0
+Tôi phát chán vì lúc nào cũng ăn cà ri rồi…
+1
+2
+3
+4
+
+-6ページ目
+Bạn làm món gì？\.\.\^
+Cà ri đơn giản
+Hủy bỏ
+0
+Nhai, nhai…
+Tôi chán ăn cà ri suốt rồi.
+Anh nói gì vậy, có người nấu cho anh ăn đấy.
+1
+Cà ri đơn giản
+Hủy bỏ
+0
+Nhai, nhai…
+Tôi chán ăn cà ri suốt rồi.
+Anh nói gì vậy, có người nấu cho anh ăn đấy.
+1
+Bạn làm món gì？\.\.\^
+Cà ri đơn giản
+en(s[266] && s[269])\V[85]
+en(s[267] && s[270])\V[86]
+en(s[268] && s[271])\V[87]
+Hủy bỏ
+0
+Tôi phát chán vì lúc nào cũng ăn cà ri rồi…
+1
+2
+3
+4
+
+-7ページ目
+Bây giờ tôi không đói.
+
+
+006 セリフ
+-1ページ目
+*hổn hển* *hổn hển*♡
+Có vẻ như chúng ta đã dọn xong khu vực đầu tiên.
+*thở dài* Mệt quá…
+Đó là vì em bị một tên dâm đãng cao cấp bắt làm
+món đó. Em sẽ rời khỏi đây ngay lập tức.
+Cuối cùng chúng ta cũng đã dọn xong tầng hai…
+*hổn hển* *hổn hển*
+Dừng lại đi, anh quá khích rồi đấy!
+*thở dài* Cuối cùng cũng về rồi.
+Tôi muốn nghỉ ngơi trên giường.
+Phù~~~ Mệt quá.
+Có một nô lệ tình dục cẩu thả hẳn là khó khăn cho
+chủ nhân.
+Ư…
+Phù~ Mệt quá.
+（Cái hầm ngục này kéo dài đến bao giờ đây？）
+（Cứ thế này, thật sự…）
+（Aaaa! Không, không! Đừng yếu đuối như vậy!
+Chưa kết thúc nếu anh đầu hàng trái tim mình!）
+（Chúng ta sẽ thoát khỏi đây và cứu đất nước này
+khỏi lũ cặn bã!）
+*hổn hển* *hổn hển*
+Cái hầm ngục này kéo dài bao lâu nữa？
+Ồ？ Ở đây có rương kho báu sao？
+Nhặt được bộ bikini mang hoạ tiết da bò!
+Tuy nhiên, trang bị của anh ta có vẻ bị nguyền rủa.
+Kyaaaa!! Lần này là cái gì nữa？!
+Aaaa~~~! ////
+Thật đấy, chuyện quái gì đang xảy ra vậy？!
+Tôi nhất định sẽ làm nổ tung tất cả đàn ông trong
+quân đội!
+Hôm nay tôi lại trải qua nhiều thứ…
+Chẳng phải lỗi tại cô ngu ngốc sao, Elisa？
+Bình thường thì cô sẽ không mắc bẫy ở một nơi như
+vậy.
+Chính anh là người ban đầu…
+Vâng vâng, tôi không quan tâm đó là gì. Tôi sẽ yêu cầu
+màn dùng ngực sau nhé？
+ーーー!!
+Hự… Hự…♡
+Làm sao tôi chịu nổi thứ đó… Ưʹ!♡
+Hmm
+Đúng là Elisa đần độn sẽ không thể
+vượt qua được dù có thử bao nhiêu lần
+đi nữa.
+Chúng ta phải làm gì đó…
+Phù
+Tôi phải lo hành lý, nên thật
+mệt mỏi.
+Ugh… Là do anh làm giảm cấp độ của tôi…
+Kiếm Thánh là cái cớ à？
+Đó là lỗi của cô vì xuất ra quá dễ dàng, phải không？
+Ồ, hoặc cô có thể mặc bất cứ thứ gì cô muốn. Tôi chán
+nhìn cô trong bộ đồ cowgirl rồi.
+Chán？ Anh nghĩ tôi là gì hả？!
+Hả？ Có vấn đề gì sao？
+Ngay từ đầu, không chỉ tôi cứu cô khỏi
+việc bị mắc kẹt trong tường, mà tôi còn bảo vệ cô
+cho đến khi cô về được, nên chẳng có gì để cảm ơn
+cả.
+Cô biết là cô không thể thoát khỏi đây trừ khi tôi
+đang vui vẻ, đúng không？
+T-Tôi biết…
+Ừm…
+Cảm ơn… vì đã cứu tôi lúc nãy…
+Cho phép tôi bày tỏ lòng biết ơn…
+
+-2ページ目
+
+-3ページ目
+
+-4ページ目
+
+
+007 ふきだし（料理用）
+-1ページ目
+
+-2ページ目
+
+-3ページ目
+
+
+008 料理イベ（部下）/フェラ
+-1ページ目
+
+-2ページ目
+*thở dài* Mệt quá.
+Này, Elisa.
+Cô không được phép ăn cho đến khi làm tôi xuất tinh.
+Trời ạ, nô lệ tình dục đúng là tiện lợi.
+Elisa đang mút nó như thể ngon lành lắm. Đây là mối quan hệ
+hai bên cùng có lợi.
+Fuoreha… Anfuagaorofura..
+(Đây là… vì anh sợ…)
+Câm mồm. Bình thường tôi muốn đâm thẳng vào
+âm đạo cô ta ngay lập tức.
+Cô nói không muốn giảm cấp độ, nên
+tôi tha cho cô bằng miệng đấy!
+Tôi đang giúp cô đấy, nên đừng nghĩ về
+bất cứ điều gì khác ngoài việc làm tôi sướng.
+Ưm!!
+Này, các anh.
+Có vẻ chúng ta đã dọn xong tầng cuối cùng.
+Chúc mừng
+Chỉ huy!
+Hầm ngục này là tuyệt nhất!
+Bwahahaha! Nghe vậy thật tốt.
+Nhân tiện, huấn luyện Elisa thế nào rồi？
+Kihyama! Đừng có bất cẩn như vậy
+（Đồ khốn! Tôi sẽ không bao giờ tha thứ cho anh!）
+Này, nô lệ tình dục không được phép tự tiện nói!
+N"Mm"—-!!
+Hắn ta điên hoàn toàn rồi. Bình thường hắn chỉ luôn
+nghĩ về cái của quý của mình.
+Có lẽ đó là điều đáng mong đợi từ một cựu
+Kiếm Thánh.
+Như anh thấy, cô ta vẫn còn một chút ý chí để
+chống cự, nhưng nếu đã dọn xong tầng cuối thì
+có phải đã kết thúc huấn luyện rồi không？
+Ừ, nếu đi qua cánh cửa đó, chúng ta có thể thoát
+khỏi hầm ngục bất cứ lúc nào.
+Tuy nhiên, nếu anh vẫn muốn huấn luyện, anh có thể ở lại
+đây và tiếp tục huấn luyện thêm một thời gian.
+Được rồi! Vậy tôi sẽ huấn luyện cô cho đến khi mất
+hết ý chí chống cự!
+Ngoài ra, tôi sẽ để phòng trừng phạt mở cho anh.
+Dùng nó thoải mái đi.
+Woaaa!!
+Tôi sẽ cống hiến hết mình cho đất nước này suốt phần đời
+còn lại!
+Bwahahahaha!
+Vậy thì, cứ tiếp tục làm tốt nhé.
+Phù! Hài lòng, hài lòng!♪
+Cô đã khá giỏi thổi kèn rồi đó, phải
+không？
+Tôi không vui khi được khen kiểu này đâu!
+Dù sao thì, cuối cùng chúng ta cũng có thể ra khỏi đây, vậy
+hãy ra khỏi đây thôi!
+Hm？
+Anh mải mê với cái của quý đến nỗi không nghe
+sao？
+Tôi sẽ ở đây đến khi cô trở thành một nô lệ tình dục
+đúng nghĩa.
+Hả？ Chúng ta có thể thoát ra rồi mà…
+Anh đang nói gì vậy？!
+Vậy cô thề sẽ là nô lệ tình dục của tôi chứ？
+T-Tôi sẽ làm!
+Hãy ra khỏi đây đi!
+*thở dài*… Anh chẳng hiểu gì cả.
+Nô lệ tình dục không trở thành nô lệ tình dục
+「Tôi sẽ chấp nhận.」Phải không？
+Hơn nữa, việc đưa ra ý kiến với chủ nhân là một
+thất bại của một nô lệ tình dục.
+Có vẻ chúng ta cần huấn luyện ở đây thêm một chút
+nữa.
+Không thể nào…
+（Tôi tưởng cuối cùng cũng có thể thoát ra, nhưng tôi
+không thể ra cho đến khi anh ta công nhận tôi…）
+（Không, không cần phải chiều theo gã này.
+Chúng ta phải giả vờ ngoan ngoãn và nắm lấy
+cơ hội khi có sơ hở để trốn thoát!）
+
+-3ページ目
+
+-4ページ目
+
+-5ページ目
+
+
+010 牛柄ビキニ
+-1ページ目
+
+
+011 フェラエリザ
+-1ページ目
+
+
+012 牛柄ビキニ
+-1ページ目
+Thật là gu tồi khi vui mừng nhìn một người phụ nữ
+mặc bộ đồ như vậy.
+
+-2ページ目
+Ồ! Nghĩ mà xem, cũng có một bộ đồ như
+thế này nữa.
+Đúng lúc lắm.
+Hãy bắt Elisa mặc cái này và dùng ngực của cô ta cho tôi!
+
+-3ページ目
+
+
+013 部屋探索完了
+-1ページ目
+Anh nắm bắt tình hình tốt đấy.
+Chúng ta thậm chí còn không biết chuyện gì đang xảy ra trong Hầm Ngục.
+Hôm nay hãy ăn uống nghỉ ngơi để đảm bảo
+mọi thứ thật hoàn hảo.
+Anh không thể chiến đấu, nên ít nhất hãy nấu cho tôi.
+
+-2ページ目
+
+
+014 丸焦げカレーエリザ
+-1ページ目
+
+-2ページ目
+
+
+015 モニター
+-1ページ目
+Không có phản ứng gì đặc biệt.
+
+
+016 Lvアップ装置ふきだし
+-1ページ目
+
+-2ページ目
+
+
+017 Lvアップ装置
+-1ページ目
+Có một bản sao của thanh kiếm.
+Có vẻ như nó không thể dùng trong chiến đấu
+thực tế.
+
+-2ページ目
+Bạn có thể huấn luyện Elisa ở đây để tăng cấp độ cho cô ấy.
+Tôi sẽ huấn luyện vừa phải thôi.
+Bạn có muốn huấn luyện không？
+Có
+Không
+0
+Chúng ta có nên thúc ép thêm nữa không？
+Có
+Không
+0
+Chúng ta có nên thúc ép thêm nữa không？
+Có
+Không
+0
+1
+1
+1
+Có
+Không
+0
+Chúng ta có nên thúc ép thêm nữa không？
+Có
+Không
+0
+1
+1
+
+-3ページ目
+Bạn có thể huấn luyện Elisa ở đây để tăng cấp độ cho cô ấy.
+Bạn có muốn huấn luyện không？
+Có
+Không
+0
+1
+
+
+018 サキュバス
+-1ページ目
+Chào mừng
+Đến với Hầm Ngục Bẫy Gợi Dục dành cho việc nuôi nô lệ tình dục
+Tôi là Aria.
+Nữ hoàng đã ra lệnh cho tôi chăm sóc các bạn.
+Nếu có chuyện gì xảy ra, cứ tự nhiên nói chuyện với tôi.
+Cửa hàng
+if(!s[330])Chinh phục hầm ngục
+if(s[330])\c[8]Chinh phục hầm ngục
+if(!s[327])Khiêu dâm
+if(s[327])\c[8]Khiêu dâm
+Hủy bỏ
+0
+1
+Bạn có thể dịch chuyển đến hầm ngục từ đó.
+Một khi chúng ta dọn sạch tất cả các tầng, nó sẽ dẫn đến
+lối ra, nhưng…
+He he…♪
+Và đừng lo, chúng ta sẽ có thể quay lại đây
+một lần nữa sau khi dọn xong tầng.
+2
+Bạn có thể dịch chuyển đến hầm ngục từ đó.
+Một khi chúng ta dọn sạch tất cả các tầng, nó sẽ dẫn đến
+lối ra, nhưng…
+He he…♪
+Và đừng lo, chúng ta sẽ có thể quay lại đây
+một lần nữa sau khi dọn xong tầng.
+3
+Sự kích thích trong hầm ngục này có chút đặc biệt.
+Một khi mức hưng phấn tăng lên, nó sẽ không xuống
+tới \C[10]Tôi sẽ khiến đàn ông xuất tinh. \C[0] Ka
+\C[10]Nuốt tinh dịch nam giới. \C[0].
+Và càng hứng tình, bạn càng nhận nhiều sát thương
+từ kẻ địch.
+Nếu muốn giải tỏa, đừng nhịn.
+Cứ hỏi.♡
+Đừng nghĩ đến việc tự mình giải quyết.
+Hãy chăm sóc Elisa thật tốt.♡
+4
+Nếu bạn tiếp xúc với kẻ địch khi đang
+động dục, bạn sẽ nhận nhiều sát thương hơn bình thường.
+Càng hứng tình, bạn càng nhận nhiều sát thương
+nên hãy cẩn thận.
+Ngoài ra, hưng phấn trong hầm ngục này có chút
+đặc biệt.
+Một khi mức hưng phấn tăng lên, nó sẽ không xuống
+tới \C[10]Tôi sẽ khiến đàn ông xuất tinh. \C[0] Ka
+\C[10]Nuốt tinh dịch nam giới. \C[0].
+Nếu muốn giải tỏa, đừng nhịn.
+Cứ hỏi.♡
+Đừng nghĩ đến việc tự mình giải quyết.
+Hãy chăm sóc Elisa thật tốt.♡
+5
+
+-2ページ目
+Tôi tự hỏi nó là gì.
+Cửa hàng
+if(!s[330])Chinh phục hầm ngục
+if(s[330])\c[8]Chinh phục hầm ngục
+if(!s[327])Khiêu dâm
+if(s[327])\c[8]Khiêu dâm
+Hủy bỏ
+0
+1
+Bạn có thể dịch chuyển đến hầm ngục từ đó.
+Một khi chúng ta dọn sạch tất cả các tầng, nó sẽ dẫn đến
+lối ra, nhưng…
+He he…♪
+Và đừng lo, chúng ta sẽ có thể quay lại đây
+một lần nữa sau khi dọn xong tầng.
+2
+Bạn có thể dịch chuyển đến hầm ngục từ đó.
+Một khi chúng ta dọn sạch tất cả các tầng, nó sẽ dẫn đến
+lối ra, nhưng…
+He he…♪
+Và đừng lo, chúng ta sẽ có thể quay lại đây
+một lần nữa sau khi dọn xong tầng.
+3
+Sự kích thích trong hầm ngục này có chút đặc biệt.
+Một khi mức hưng phấn tăng lên, nó sẽ không xuống
+tới \C[10]Tôi sẽ khiến đàn ông xuất tinh. \C[0] Ka
+\C[10]Nuốt tinh dịch nam giới. \C[0].
+Và càng hứng tình, bạn càng nhận nhiều sát thương
+từ kẻ địch.
+Nếu muốn giải tỏa, đừng nhịn.
+Cứ hỏi.♡
+Đừng nghĩ đến việc tự mình giải quyết.
+Hãy chăm sóc Elisa thật tốt.♡
+4
+Nếu bạn tiếp xúc với kẻ địch khi đang
+động dục, bạn sẽ nhận nhiều sát thương hơn bình thường.
+Càng hứng tình, bạn càng nhận nhiều sát thương
+nên hãy cẩn thận.
+Ngoài ra, hưng phấn trong hầm ngục này có chút
+đặc biệt.
+Một khi mức hưng phấn tăng lên, nó sẽ không xuống
+tới \C[10]Tôi sẽ khiến đàn ông xuất tinh. \C[0] Ka
+\C[10]Nuốt tinh dịch nam giới. \C[0].
+Nếu muốn giải tỏa, đừng nhịn.
+Cứ hỏi.♡
+Đừng nghĩ đến việc tự mình giải quyết.
+Hãy chăm sóc Elisa thật tốt.♡
+5
+
+-3ページ目
+Ồ, tới đây rồi.♪
+Chúc mừng đã vượt qua tầng đầu tiên!!
+Bạn thấy sao？ Khá khó khăn phải không？
+Khó sao？ Tôi cũng bị coi thường.
+Dễ quá, gần như hụt hẫng.
+Chà, Bí mật, khi chúng ta đang khám phá\V[109]Sao
+dám nói vậy sau khi đã ra bao nhiêu lần.
+Cái gì!？
+Ồ, nếu bạn phản ứng dễ dàng như thế…
+Cáiii gì？!
+Elisa, em đã ra nhiều thế mà không nói
+gì sao？!
+Thấy chưa, họ phát hiện ra rồi.♪
+K-Không thể nào tôi đã ra được!
+Anh ta chỉ nói bừa thôi!
+Vậy thì xem ai đúng.
+Tôi sẽ tặng bạn một món quà với tư cách cựu thuộc hạ của
+tôi!♪
+Kỹ năng「Ero Status」Tôi đã học nó.
+Nếu bạn dùng kỹ năng đó, bạn sẽ thấy tất cả
+thông tin xấu hổ của Elisa.
+Elisa…\!
+Thông tin xấu hổ？!
+Hãy thử nghĩ về mục tiêu trong đầu bạn.
+……………
+（Tôi muốn xem thông tin bẩn thỉu về
+Elisa-san!!）
+
+-4ページ目
+Tôi tự hỏi nó là gì.
+Cửa hàng
+if(!s[330])Chinh phục hầm ngục
+if(s[330])\c[8]Chinh phục hầm ngục
+if(!s[327])Khiêu dâm
+if(s[327])\c[8]Khiêu dâm
+Hủy bỏ
+0
+1
+Bạn có thể dịch chuyển đến hầm ngục từ đó.
+Một khi chúng ta dọn sạch tất cả các tầng, nó sẽ dẫn đến
+lối ra, nhưng…
+He he…♪
+Và đừng lo, chúng ta sẽ có thể quay lại đây
+một lần nữa sau khi dọn xong tầng.
+2
+Bạn có thể dịch chuyển đến hầm ngục từ đó.
+Một khi chúng ta dọn sạch tất cả các tầng, nó sẽ dẫn đến
+lối ra, nhưng…
+He he…♪
+Và đừng lo, chúng ta sẽ có thể quay lại đây
+một lần nữa sau khi dọn xong tầng.
+3
+Sự kích thích trong hầm ngục này có chút đặc biệt.
+Một khi mức hưng phấn tăng lên, nó sẽ không xuống
+tới \C[10]Tôi sẽ khiến đàn ông xuất tinh. \C[0] Ka
+\C[10]Nuốt tinh dịch nam giới. \C[0].
+Và càng hứng tình, bạn càng nhận nhiều sát thương
+từ kẻ địch.
+Nếu muốn giải tỏa, đừng nhịn.
+Cứ hỏi.♡
+Đừng nghĩ đến việc tự mình giải quyết.
+Hãy chăm sóc Elisa thật tốt.♡
+4
+Nếu bạn tiếp xúc với kẻ địch khi đang
+động dục, bạn sẽ nhận nhiều sát thương hơn bình thường.
+Càng hứng tình, bạn càng nhận nhiều sát thương
+nên hãy cẩn thận.
+Ngoài ra, hưng phấn trong hầm ngục này có chút
+đặc biệt.
+Một khi mức hưng phấn tăng lên, nó sẽ không xuống
+tới \C[10]Tôi sẽ khiến đàn ông xuất tinh. \C[0] Ka
+\C[10]Nuốt tinh dịch nam giới. \C[0].
+Nếu muốn giải tỏa, đừng nhịn.
+Cứ hỏi.♡
+Đừng nghĩ đến việc tự mình giải quyết.
+Hãy chăm sóc Elisa thật tốt.♡
+5
+
+-5ページ目
+Ồ, vai trò của chúng ta đã hoàn toàn đảo ngược.
+Chỉ có một thứ tôi mong đợi từ cái
+lão già cuồng dâm đó.
+Đúng vậy, tôi giữ nó cũng vô ích
+nữa, nên tôi sẽ đưa bạn cái này.
+Aria đưa tôi mặt dây chuyền thôi miên（Kyou）.
+Tôi không nghĩ cần thôi miên để quan hệ tình dục
+nữa…
+Đây là ‘Gia vị’, phải không？♪
+
+-6ページ目
+Cửa hàng
+Về nấu ăn
+Về debuff
+Về sự phụ thuộc
+Về Ero Status
+Hủy bỏ
+0
+1
+Ngủ không phải cách duy nhất để hồi phục
+mệt mỏi.
+Lấy nguyên liệu ở đây và làm bất cứ món gì bạn
+muốn.
+Nếu bạn nấu món họ thích, bạn có thể khiến
+họ tin cậy hơn.
+2
+Debuff trong hầm ngục này chỉ có tác dụng với phụ nữ.
+Nếu bạn nhận quá nhiều debuff, chỉ số hưng phấn của bạn
+sẽ đạt giới hạn và bạn không thể
+di chuyển.
+Vào những lúc như vậy, hãy làm mấy trò biến thái và
+giải tỏa, hoặc dùng vật phẩm để hồi phục.
+3
+Nô lệ có một mức độ phụ thuộc nhất định.
+Sự phụ thuộc, như tên gọi, là mức độ phụ thuộc
+của bạn.
+Càng phụ thuộc, bạn càng dễ
+tuân theo mệnh lệnh, và càng
+tự nhận thức mình là nô lệ tình dục.
+4
+Đó là kỹ năng cho phép bạn thấy mọi loại
+thông tin về nô lệ.
+Nô lệ biết bạn đang xem gì, nên có thể
+trò chuyện với họ.
+Nếu bạn xóa bỏ hưng phấn khi đang dùng kỹ năng này,
+nó sẽ có tác dụng.
+（Bạn có thể mở và đóng Màn hình Erotic Status
+bằng phím E.
+E của ERIZA!）
+5
+
+-7ページ目
+Cửa hàng
+Về nấu ăn
+Về debuff
+Về sự phụ thuộc
+Về Ero Status
+Hủy bỏ
+0
+1
+Ngủ không phải cách duy nhất để hồi phục
+mệt mỏi.
+Lấy nguyên liệu ở đây và làm bất cứ món gì bạn
+muốn.
+Nếu bạn nấu món họ thích, bạn có thể khiến
+họ tin cậy hơn.
+2
+Debuff trong hầm ngục này chỉ có tác dụng với phụ nữ.
+Nếu bạn nhận quá nhiều debuff, chỉ số hưng phấn của bạn
+sẽ đạt giới hạn và bạn không thể
+di chuyển.
+Vào những lúc như vậy, hãy làm mấy trò biến thái và
+giải tỏa, hoặc dùng vật phẩm để hồi phục.
+3
+Nô lệ có một mức độ phụ thuộc nhất định.
+Sự phụ thuộc, như tên gọi, là mức độ phụ thuộc
+của bạn.
+Càng phụ thuộc, bạn càng dễ
+tuân theo mệnh lệnh, và càng
+tự nhận thức mình là nô lệ tình dục.
+4
+Đó là kỹ năng cho phép bạn thấy mọi loại
+thông tin về nô lệ.
+Nô lệ biết bạn đang xem gì, nên có thể
+trò chuyện với họ.
+Nếu bạn xóa bỏ hưng phấn khi đang dùng kỹ năng này,
+nó sẽ có tác dụng.
+（Bạn có thể mở và đóng Màn hình Erotic Status
+bằng phím E.
+E của ERIZA!）
+5
+
+
+019 ベッド部下・戸川部下
+-1ページ目
+
+-2ページ目
+
+-3ページ目
+
+-4ページ目
+
+
+020 エリザ（腕立て）
+-1ページ目
+
+
+021 部下（腕立て）
+-1ページ目
+
+
+022 宿屋（右下）
+-1ページ目
+Bạn sắp ngủ bây giờ
+(Sự kiện có thể xảy ra nếu bạn nói chuyện với Elisa.)
+Có
+Không
+0
+1
+
+-2ページ目
+Ăn thôi.
+
+-3ページ目
+Hihihi♪
+Tôi sẽ trừng phạt bạn cho đến khi bạn hiểu rõ vị trí của mình.
+Hồi tưởng: Trừng phạt: Togawa Kengo
+Này, không phải tôi đã dạy bạn cách chào dương vật
+ngay khi thức dậy buổi sáng sao？
+Ức…
+Nếu bạn không nhanh lên, tôi sẽ phạt bạn lần nữa!
+Ch-Chào buổi sáng, Ngài Dương vật…
+Cho phép tôi phục vụ ngài buổi sáng.
+Này, đã lâu rồi nhỉ？
+Dạo này thế nào？
+Hoaaa! Fue ai horo hihea fuhaa!
+（Mày! Tao nhất định sẽ giết mày!!）
+Ha ha ha!
+Ra vậy, ra vậy. Dương vật của mày ngon đến nỗi tao
+không chịu nổi!
+Phụ nữ hợp với việc cầm
+dương vật hơn là kiếm!
+… Fwah!（Im đi!!）
+Này, thật thô lỗ khi nhìn đi chỗ khác khi đang phục vụ
+tôi!
+Nngmhh!"ーーー!!!♡
+Bwahahaha. Trông được đấy.
+Nhân tiện, thuộc hạ, hôm nay tôi có chuyện muốn nói
+với bạn.
+Cho đến giờ, đó là hầm ngục được thiết kế để
+làm suy yếu Elisa để bạn có thể nắm thế chủ động
+Và từ đây trở đi, một hầm ngục đã được chuẩn bị
+để Elisa hình thành ý thức bản thân như một nô lệ
+tình dục.
+Nếu bạn vượt qua tất cả và thực hiện một
+cuộc trốn thoát xuất sắc, bạn sẽ là chỉ huy
+đội.\.
+Elisa có lẽ đã sa vào vòng nô lệ tình dục, cả về
+thể xác lẫn tinh thần.
+Ồ, tôi mong đợi điều đó.
+Tôi sẽ biến cô ấy thành nô lệ tình dục tuyệt vời!
+Ha ha ha!
+Vậy thì, tôi trông cậy vào bạn.
+\ULỨc, tôi đang ra!!! \|\^
+Nngmhh!"ーーー!!!♡
+（I'm cumming!♡♡）
+（*thở dài*♡ *thở dài*♡
+Chết tiệt… Tôi đã ra chỉ vì bị xuất tinh vào…♡♡）
+Ha ha ha!
+Tôi đang mong chờ đấy, phải không, Elisa？♪
+
+-4ページ目
+
+
+023 ベッドエリザ
+-1ページ目
+
+-2ページ目
+
+
+024 戸川エリザ
+-1ページ目
+
+-2ページ目
+
+
+025 落とし穴後部下
+-1ページ目
+Hả？
+Đừng nói Elisa đã bỏ trốn？
+
+-2ページ目
+
+
+026 扉（お仕置き部屋）
+-1ページ目
+Đó là phòng trừng phạt.
+Nếu bạn thua quái vật trong hầm ngục, bạn sẽ bị
+chuyển đến phòng đó.
+Bạn sẽ cần sự cho phép của chủ nhân để rời đi, vì vậy
+đảm bảo bạn không thua.
+（Chồng tôi？ Đừng nói anh ta đang nói về
+gã này…）
+Vậy sao？
+Nhưng nó không liên quan đến tôi.
+Chà, tôi không biết về điều đó.
+Fufufu…♪
+
+-2ページ目
+Nó không nhúc nhích với sức mạnh kỳ lạ.
+
+-3ページ目
+
+-4ページ目
+Hiện tại tôi không có việc gì ở đây.
+
+
+027 料理
+-1ページ目
+
+-2ページ目
+
+-3ページ目
+
+-4ページ目
+
+-5ページ目
+
+
+028 ベッド用ふきだし
+-1ページ目
+
+-2ページ目
+
+-3ページ目
+
+-4ページ目
+
+
+029 部下寝てる吹き出し
+-1ページ目
+
+
+030 エリアからの退場処理
+-1ページ目
+
+
+032 料理
+-1ページ目
+
+-2ページ目
+
+-3ページ目
+
+-4ページ目
+
+-5ページ目
+
+
+037 キス前の会話
+-1ページ目
+Vậy hãy dùng kỹ năng này để hòa hợp với Elisa.♪
+Hihihi
+Tôi sẽ giúp bạn trốn thoát như đã hứa, nên nếu bạn
+nổi hứng, cứ để tôi lo.♪
+T-Tôi không đùa đâu…
+Chúng ta cần tìm giải pháp…
+……
+（Cô là một succubus phải không？
+Không có cách nào hay để khiến hắn sa ngã sao？）
+（Hmm, nếu chúng ta chinh phục hầm ngục này, chúng ta sẽ
+có thể dần dần sa ngã, nhưng…)
+（Thôi được, tôi sẽ cho bạn cái này miễn phí.♪）
+（Hm？ Cái gì đây？）
+（Ngay cả khi có sự chênh lệch sức mạnh bây giờ, nếu
+bạn đang dùng kỹ năng Erotic Status, bạn nên
+có thể thôi miên cô ấy và hôn cô ấy.）
+（Oooh! Cái này hay đấy.♪
+Tôi sẽ dùng ngay!）
+（Heheh.♪
+Tôi sẽ khiến bạn sa ngã từng chút một và trở thành
+nô lệ tình dục cá nhân của tôi.）
+
+
+-2ページ目
+
+
+038 エロステ付与部下
+-1ページ目
+
+-2ページ目
+
+
+039 エロステ付与エリザ
+-1ページ目
+
+-2ページ目
+
+

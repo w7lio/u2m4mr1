@@ -1,0 +1,97 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "eriza_fella.moc3",
+		"Textures": [
+			"eriza_fella.4096/texture_00.png"
+		],
+		"Physics": "eriza_fella.physics3.json",
+		"Pose": "eriza_fella.pose3.json",
+		"DisplayInfo": "eriza_fella.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "exp_00",
+				"File": "expressions/exp_00.exp3.json"
+			},
+			{
+				"Name": "exp_01",
+				"File": "expressions/exp_01.exp3.json"
+			},
+			{
+				"Name": "exp_02",
+				"File": "expressions/exp_02.exp3.json"
+			},
+			{
+				"Name": "exp_03",
+				"File": "expressions/exp_03.exp3.json"
+			},
+			{
+				"Name": "exp_04",
+				"File": "expressions/exp_04.exp3.json"
+			},
+			{
+				"Name": "exp_05",
+				"File": "expressions/exp_05.exp3.json"
+			},
+			{
+				"Name": "exp_clothes_00",
+				"File": "expressions/exp_clothes_00.exp3.json"
+			},
+			{
+				"Name": "exp_clothes_01",
+				"File": "expressions/exp_clothes_01.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/mtn_only_02.motion3.json"
+				},
+				{
+					"File": "motions/exp_fella_01.motion3.json",
+					"FadeInTime": 3,
+					"FadeOutTime": 1
+				},
+				{
+					"File": "motions/mtn_only_03.motion3.json"
+				},
+				{
+					"File": "motions/mtn_only_01.motion3.json"
+				},
+				{
+					"File": "motions/exp_fella_02.motion3.json"
+				},
+				{
+					"File": "motions/mtn_only_04.motion3.json"
+				},
+				{
+					"File": "motions/exp_fella_00.motion3.json"
+				},
+				{
+					"File": "motions/mtn_special_01.motion3.json"
+				}
+			],
+			"Idle": [
+				{
+					"File": "motions/mtn_idle_00.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		}
+	],
+	"HitAreas": []
+}

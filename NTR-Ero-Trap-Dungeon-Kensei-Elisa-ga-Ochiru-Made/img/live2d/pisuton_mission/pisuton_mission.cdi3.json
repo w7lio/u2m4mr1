@@ -1,0 +1,371 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup6",
+			"Name": "←癖毛１"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup6",
+			"Name": "←癖毛２"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup6",
+			"Name": "→中央髪1"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup6",
+			"Name": "←中央髪3"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup6",
+			"Name": "←毛束1"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup6",
+			"Name": "→毛束2"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup6",
+			"Name": "→毛束3"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup5",
+			"Name": "エリザ 呼吸"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup5",
+			"Name": "部下 呼吸"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup2",
+			"Name": "頭 傾き"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup2",
+			"Name": "背中 傾き"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup3",
+			"Name": "←お尻"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup3",
+			"Name": "→お尻"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup3",
+			"Name": "股"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup3",
+			"Name": "アナル"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup3",
+			"Name": "←足"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup3",
+			"Name": "→足"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup3",
+			"Name": "陰茎"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup7",
+			"Name": "←胸"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup7",
+			"Name": "→胸"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup7",
+			"Name": "←腕"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup7",
+			"Name": "→腕"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup4",
+			"Name": "お尻 ピストン"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup4",
+			"Name": "お尻 伸びON"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup4",
+			"Name": "お尻 打 傾き"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup4",
+			"Name": "股 挿入後 移動"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup4",
+			"Name": "股 挿入 変形"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup",
+			"Name": "お札ON"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup",
+			"Name": "腕ON"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "部下 精液ON"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup",
+			"Name": "部下 精液ON2"
+		},
+		{
+			"Id": "Param36",
+			"GroupId": "ParamGroup",
+			"Name": "◆射精"
+		},
+		{
+			"Id": "Param37",
+			"GroupId": "ParamGroup",
+			"Name": "◆射精2"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "股 精液ON"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup8",
+			"Name": "精液下垂れON"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup8",
+			"Name": "部下 揺れ"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup8",
+			"Name": "部下 表示"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup8",
+			"Name": "射精後"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "髪"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "体"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "ビクビク"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "揺れ"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "ピストン"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "切り替え"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "部下"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part6",
+			"Name": "挿入 股.psd"
+		},
+		{
+			"Id": "Part28",
+			"Name": "効果"
+		},
+		{
+			"Id": "Part29",
+			"Name": "エリザ"
+		},
+		{
+			"Id": "Part30",
+			"Name": "部下"
+		},
+		{
+			"Id": "Part13",
+			"Name": "マスキング"
+		},
+		{
+			"Id": "Part27",
+			"Name": "お札"
+		},
+		{
+			"Id": "Part31",
+			"Name": "アナル"
+		},
+		{
+			"Id": "Part5",
+			"Name": "股 挿入"
+		},
+		{
+			"Id": "Part32",
+			"Name": "股"
+		},
+		{
+			"Id": "Part33",
+			"Name": "←お尻"
+		},
+		{
+			"Id": "Part34",
+			"Name": "→お尻"
+		},
+		{
+			"Id": "Part40",
+			"Name": "髪"
+		},
+		{
+			"Id": "Part16",
+			"Name": "二の腕"
+		},
+		{
+			"Id": "Part50",
+			"Name": "手"
+		},
+		{
+			"Id": "Part51",
+			"Name": "胴体"
+		},
+		{
+			"Id": "Part23",
+			"Name": "胸"
+		},
+		{
+			"Id": "Part53",
+			"Name": "足"
+		},
+		{
+			"Id": "Part3",
+			"Name": "精液 垂れ"
+		},
+		{
+			"Id": "Part2",
+			"Name": "精液"
+		},
+		{
+			"Id": "Part7",
+			"Name": "精液"
+		},
+		{
+			"Id": "Part4",
+			"Name": "挿入前-まんこ-モザイク.psd"
+		},
+		{
+			"Id": "Part8",
+			"Name": "股2'"
+		},
+		{
+			"Id": "Part41",
+			"Name": "←癖毛１"
+		},
+		{
+			"Id": "Part42",
+			"Name": "←癖毛２"
+		},
+		{
+			"Id": "Part43",
+			"Name": "中央髪1"
+		},
+		{
+			"Id": "Part44",
+			"Name": "中央髪2"
+		},
+		{
+			"Id": "Part45",
+			"Name": "中央髪3"
+		},
+		{
+			"Id": "Part46",
+			"Name": "中央髪４"
+		},
+		{
+			"Id": "Part47",
+			"Name": "←毛束1"
+		},
+		{
+			"Id": "Part48",
+			"Name": "→毛束2"
+		},
+		{
+			"Id": "Part49",
+			"Name": "→毛束３"
+		},
+		{
+			"Id": "Part",
+			"Name": "*股 モザイク"
+		},
+		{
+			"Id": "Part9",
+			"Name": "削除予定"
+		}
+	]
+}

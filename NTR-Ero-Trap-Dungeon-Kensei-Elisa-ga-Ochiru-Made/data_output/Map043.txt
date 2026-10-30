@@ -1,0 +1,174 @@
+・ID:0043 出られない部屋(イベ邂逅用)
+001 料理（保留）
+-1ページ目
+Bạn sẽ làm món gì？
+Cơm bình thường
+0
+Nấu ăn SE
+Thức ăn có chứa thuốc kích dục
+0
+Nấu ăn SE
+Nấu ăn SE
+Tôi không cần nó ngay bây giờ.
+
+-2ページ目
+Bạn sẽ làm món gì？
+Nấu ăn SE
+Nấu ăn SE
+Nấu ăn SE
+Tôi không cần nó ngay bây giờ.
+
+-3ページ目
+Bạn làm món gì？
+en(s[266])Thịt có xương
+en(s[267])Xiên cá
+en(s[268])Súp rau củ
+Hủy bỏ
+0
+1
+2
+3
+
+
+002 エリザ
+-1ページ目
+
+
+003 魔法陣（拠点部屋テンプレ）
+-1ページ目
+Bạn có muốn vào hầm ngục không？
+Chúng ta nên rời khỏi đây chứ？
+Có
+Không
+0
+Chọn một điểm đến.
+？？？
+Hủy bỏ
+0
+1
+？？？
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+？？？
+en(!v[43]>0)Khu vực nước
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+3
+Khu vực băng
+en(!v[43]>0)Khu vực nước
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+3
+？？？
+en(!v[43]>0)Khu vực băng
+en(!v[43]>0)Khu vực nước
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+3
+4
+？？？
+en(!v[43]>0)Khu vực không gian
+en(!v[43]>0)Khu vực băng
+en(!v[43]>0)Khu vực nước
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+3
+4
+5
+？？？
+en(!v[43]>0)Khu vực tàn tích
+en(!v[43]>0)Khu vực không gian
+en(!v[43]>0)Khu vực băng
+en(!v[43]>0)Khu vực nước
+en(!v[43]>0)Khu vực tự nhiên
+0
+1
+2
+3
+4
+5
+Hủy bỏ
+0
+Vẫn còn quá sớm để trốn thoát.
+Tôi không thể rời đi cho đến khi làm cho Elisa hiểu ra.
+1
+
+-2ページ目
+Bạn có muốn vào hầm ngục không？
+Chúng ta nên rời khỏi đây chứ？
+Có
+Không
+0
+Vẫn còn quá sớm để trốn thoát.
+Tôi không thể rời đi cho đến khi làm cho Elisa hiểu ra.
+1
+
+-3ページ目
+Hãy nghỉ ngơi và hồi phục mệt mỏi nào.
+
+-4ページ目
+Elisa trông như muốn nói điều gì đó.
+
+-5ページ目
+Đi đến hầm ngục à？
+Có
+Không
+0
+1
+
+-6ページ目
+？？？
+en(s[266])Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+？？？
+en(!v[43]>0)Khu vực tự nhiên
+Hủy bỏ
+0
+1
+2
+
+
+004 主人公
+-1ページ目
+……。
+Forced teleportation magic all of a sudden, huh？
+This isn't going to be easy.
+
+-2ページ目
+
+
+005 扉（お仕置き部屋）
+-1ページ目
+
+-2ページ目
+Nó không nhúc nhích với sức mạnh kỳ lạ.
+
+
+006 牛柄ビキニ
+-1ページ目
+
+
+007 牛柄ビキニ
+-1ページ目
+Thật là gu tồi khi vui mừng nhìn một người phụ nữ
+mặc bộ đồ như vậy.
+
+

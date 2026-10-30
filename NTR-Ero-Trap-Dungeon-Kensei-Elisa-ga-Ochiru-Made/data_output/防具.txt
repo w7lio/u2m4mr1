@@ -1,0 +1,301 @@
+・ID:0001 
+
+
+・ID:0002 Quần áo
+【General equipment】Một bộ quần áo vải thoáng khí.
+
+・ID:0003 Áo da
+【General equipment】Áo gi-lê làm từ da thuộc.
+
+・ID:0004 Quần áo của nhà thám hiểm
+【General equipment】Quần áo bền chắc chịu được những cuộc hành trình khắc nghiệt.
+
+・ID:0005 Da cứng
+【General equipment】Một chiếc áo gi-lê da mềm nhưng cứng cáp.
+
+・ID:0006 Brigandine
+【General equipment】Áo làm bằng da thuộc được gia cố bằng các tấm thép.
+
+・ID:0007 
+
+
+・ID:0008 Giáp Kloe
+【Light equipment】Bộ giáp làm từ vải bền.
+
+・ID:0009 Giáp da
+【Light equipment】Giáp làm bằng cách xếp lớp da thuộc.
+
+・ID:0010 Giáp ngực đồng
+【Light equipment】Giáp ngực bằng đồng.
+
+・ID:0011 Giáp ngực sắt
+【Light equipment】Giáp ngực bằng thép.
+
+・ID:0012 Giáp ngực Mithril
+【Light equipment】Giáp ngực làm bằng mithril.
+
+・ID:0013 Giáp ngực rồng
+【Light equipment】Giáp ngực khảm vảy rồng.
+
+・ID:0014 
+
+
+・ID:0015 Giáp đồng
+【Heavy Armor】Một bộ giáp bằng đồng.
+
+・ID:0016 Giáp sắt
+【Heavy Armor】Một bộ giáp thép.
+
+・ID:0017 Giáp Mithril
+【Heavy Armor】Bộ giáp làm bằng mithril.
+
+・ID:0018 Giáp rồng
+【Heavy Armor】Bộ giáp làm từ vảy rồng.
+
+・ID:0019 
+
+
+・ID:0020 Áo choàng cotton
+【Magic equipment】Áo choàng phổ biến được sử dụng rộng rãi.
+
+・ID:0021 Áo choàng lụa
+【Magic equipment】Áo choàng chất lượng cao làm từ lụa.
+
+・ID:0022 Áo choàng pháp sư
+【Magic equipment】Áo choàng khắc chữ rune.
+
+・ID:0023 Áo choàng hiền triết
+【Magic equipment】Áo choàng dệt từ năng lượng ma thuật.
+
+・ID:0024 Áo choàng nguyên tố
+【Magic equipment】Áo choàng tối thượng thấm nhuần sức mạnh của Vua Tinh Linh.
+
+・ID:0025 
+
+
+・ID:0026 —-Hệ thống khiên
+
+
+・ID:0027 Khiên nhỏ
+【Small shield】Khiên nhỏ để đỡ các đòn tấn công.
+
+・ID:0028 Khiên tròn
+【Small shield】Khiên tròn bằng gỗ được gia cố khung sắt.
+
+・ID:0029 Khiên gai
+【Small shield】Khiên tròn có gai tấn công trên bề mặt.
+
+・ID:0030 Khiên nhỏ Mithril
+【Small shield】Khiên nhỏ làm bằng mithril.
+
+・ID:0031 Khiên nhỏ rồng
+【Small shield】Khiên nhỏ làm từ vảy rồng.
+
+・ID:0032 
+
+
+・ID:0033 Khiên gỗ
+【Large Shield】Một chiếc khiên gỗ lớn, hoàn toàn bình thường.
+
+・ID:0034 Khiên đồng
+【Large Shield】Khiên lớn làm từ các tấm đồng.
+
+・ID:0035 Khiên sắt
+【Large Shield】Một chiếc khiên thép lớn.
+
+・ID:0036 Khiên Mithril
+【Large Shield】Khiên lớn làm bằng mithril.
+
+・ID:0037 Khiên rồng
+【Large Shield】Khiên lớn làm từ vảy rồng.
+
+・ID:0038 
+
+
+・ID:0039 Vòng tay gỗ
+【Magic equipment】Vòng đeo tay được phù phép bảo vệ.
+
+・ID:0040 Vòng tay đồng
+【Magic equipment】Vòng đeo tay được phù phép bảo vệ.
+
+・ID:0041 Vòng tay sắt
+【Magic equipment】Vòng đeo tay được phù phép bảo vệ.
+
+・ID:0042 Vòng tay Mithril
+【Magic equipment】Vòng đeo tay được phù phép bảo vệ.
+
+・ID:0043 Vòng tay rồng
+【Magic equipment】Vòng đeo tay được phù phép bảo vệ.
+
+・ID:0044 
+
+
+・ID:0045 —-Loại mũ Kabuto
+
+
+・ID:0046 Băng đô
+【General equipment】Một chiếc mũ vải bảo vệ trán.
+
+・ID:0047 Băng đô da
+【General equipment】Một chiếc mũ da bảo vệ trán.
+
+・ID:0048 Mũ da
+【General equipment】Mũ làm từ da.
+
+・ID:0049 Khăn xếp
+【General equipment】Một mảnh vải dày quấn quanh đầu.
+
+・ID:0050 Mũ lông vũ
+【General equipment】Mũ thời trang có cánh chim.
+
+・ID:0051 
+
+
+・ID:0052 Mũ lưỡi trai da
+【Light equipment】Mũ làm từ da thuộc.
+
+・ID:0053 Mũ gỗ
+【Light equipment】Mũ bảo hiểm nhẹ làm bằng gỗ.
+
+・ID:0054 Mũ đồng
+【Light equipment】Mũ bảo hiểm nhẹ được gia cố các tấm đồng.
+
+・ID:0055 Mũ sắt
+【Light equipment】Mũ bảo hiểm nhẹ được gia cố các tấm sắt.
+
+・ID:0056 Mũ Mithril
+【Light equipment】Mũ bảo hiểm nhẹ được gia cố mithril.
+
+・ID:0057 Mũ rồng
+【Light equipment】Mũ bảo hiểm nhẹ được gia cố vảy rồng.
+
+・ID:0058 
+
+
+・ID:0059 Mũ lưới
+【Heavy Armor】Mũ trùm được dệt từ các sợi xích nhỏ.
+
+・ID:0060 Mũ đồng dày
+【Heavy Armor】Mũ sắt làm từ các tấm đồng dày.
+
+・ID:0061 Mũ sắt dày
+【Heavy Armor】Mũ sắt làm từ các tấm thép dày.
+
+・ID:0062 Mũ Mithril
+【Heavy Armor】Mũ sắt làm bằng mithril.
+
+・ID:0063 Mũ rồng
+【Heavy Armor】Mũ sắt làm từ vảy rồng.
+
+・ID:0064 
+
+
+・ID:0065 Mũ chóp nhọn
+【Magic equipment】Mũ rộng vành, ba góc làm từ da thuộc.
+
+・ID:0066 Vòng miện
+【Magic equipment】Vương miện đơn giản được phù phép bảo vệ.
+
+・ID:0067 Vòng miện bạc
+【Magic equipment】Vương miện chạm bạc được phù phép bảo vệ.
+
+・ID:0068 Vòng miện vàng
+【Magic equipment】Vương miện vàng nguyên chất được phù phép bảo vệ.
+
+・ID:0069 Vòng miện Mithril
+【Magic equipment】Vương miện mithril được phù phép bảo vệ.
+
+・ID:0070 Vòng miện bậc thầy
+【Magic equipment】Vương miện hiền triết được phù phép bảo vệ.
+
+・ID:0071 
+
+
+・ID:0072 —-Loại trang sức
+
+
+・ID:0073 Bùa chống bẫy
+
+
+
+・ID:0074 Gardling
+【Ornament】Nhẫn tăng cường phòng thủ.
+
+・ID:0075 Đá Sức Mạnh
+【Ornament】Bùa tăng sức tấn công.
+
+・ID:0076 Nhẫn Sức Mạnh
+【Ornament】Nhẫn tăng sức tấn công.
+
+・ID:0077 Đá Tốc Độ
+【Ornament】Bùa tăng sự nhanh nhẹn.
+
+・ID:0078 Nhẫn Tốc Độ
+【Ornament】Nhẫn tăng sự nhanh nhẹn.
+
+・ID:0079 Đá May Mắn
+【Ornament】Bùa may mắn.
+
+・ID:0080 Nhẫn May Mắn
+【Ornament】Nhẫn tăng may mắn.
+
+・ID:0081 Đá Ma Thuật
+【Ornament】Bùa tăng sức mạnh phép thuật.
+
+・ID:0082 Nhẫn Ma Thuật
+【Ornament】Nhẫn tăng sức mạnh phép thuật.
+
+・ID:0083 Đá Xạ Thủ
+【Ornament】Bùa tăng tỉ lệ chính xác của đòn tấn công.
+
+・ID:0084 Nhẫn Xạ Thủ
+【Ornament】Bùa tăng tỉ lệ chính xác của đòn tấn công.
+
+・ID:0085 Đá Bậc Thầy
+【Ornament】Bùa giảm 20% tiêu hao MP.
+
+・ID:0086 Masterling
+【Ornament】Nhẫn giảm 50% tiêu hao MP.
+
+・ID:0087 
+
+
+・ID:0088 Nhẫn Kháng Độc
+【Ornament】Nhẫn giúp khó bị trúng độc hoặc tê liệt hơn.
+
+・ID:0089 Nhẫn Kháng Độc S
+【Ornament】Nhẫn ngăn chặn hoàn toàn độc và tê liệt.
+
+・ID:0090 
+
+
+・ID:0091 Nhẫn Kháng Tâm Trí
+【Ornament】Nhẫn giúp khó bị ngủ, câm lặng, hỗn loạn, quyến rũ và phẫn nộ hơn.
+
+・ID:0092 Nhẫn Kháng Tâm Trí S
+【Ornament】Nhẫn ngăn chặn hoàn toàn ngủ, câm lặng, hỗn loạn, quyến rũ và phẫn nộ.
+
+・ID:0093 
+
+
+・ID:0094 Radar Kẻ Thù
+【Ornament】Phụ kiện tăng khả năng ra đòn trước.
+
+・ID:0095 Chuông Cảnh Báo
+【Ornament】Phụ kiện giúp không bị tấn công bất ngờ.
+
+・ID:0096 TP Stocker
+【Ornament】Phụ kiện mang TP sang trận kế tiếp.
+
+・ID:0097 Gutsling
+【Ornament】Nhẫn tăng tốc độ nạp TP.
+
+・ID:0098 MP Keeper
+【Ornament】Vòng đeo tay giảm tiêu hao MP.
+
+・ID:0099 Hộ Vệ Nguyên Tố
+【Ornament】Dưới sự bảo hộ của bốn đại tinh linh, sát thương nhận từ các đòn tấn công nguyên tố lửa, nước, gió và đất giảm đi một nửa.
+
+・ID:0100 Kính Mắt
+【Ornament】Phụ kiện tăng tỉ lệ chính xác.
+

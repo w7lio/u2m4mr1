@@ -1,0 +1,21 @@
+・ID:0073 冒頭
+001 冒頭演出
+-1ページ目
+\FS[28]Tôi ghét đất nước này.
+\FS[28]Bọn quý tộc coi thường dân chúng và
+hành xử độc đoán.
+\!Một đội quân dùng sức mạnh để chinh phục
+kẻ yếu.
+\!Những kẻ đàn ông coi phụ nữ không hơn gì một
+phương tiện để giải tỏa dục vọng của chúng.
+\FS[28]Ta sẽ… \|Ta sẽ thay đổi đất nước này.
+\FS[28]Vì mục đích đó, cô ấy đã nỗ lực nhiều hơn
+bất kỳ ai, và trở nên mạnh mẽ hơn bất kỳ ai.
+\FS[28]Vậy mà…
+\FS[28]Tại sao…
+\FS[28]Tại sao chuyện này lại xảy ra？
+\FS[28]\ac\vc\{Một tháng trước…
+
+-2ページ目
+
+

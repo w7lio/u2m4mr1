@@ -1,0 +1,200 @@
+・ID:0001 Đoản kiếm
+【Kiếm】Một thanh đoản kiếm với lưỡi nhẹ, dễ sử dụng.
+
+
+・ID:0002 Trường kiếm
+【Kiếm】Một thanh trường kiếm chiến đấu có lưỡi sắc bén.
+
+
+・ID:0003 Falsion
+【Kiếm】Một thanh kiếm rộng với lưỡi cong.
+
+
+・ID:0004 Kiếm Mithril
+【Kiếm】Một thanh trường kiếm làm bằng mithril.
+
+
+・ID:0005 Kiếm Rồng
+【Kiếm】Một thanh kiếm làm từ Kiba Rồng.
+
+
+・ID:0006 
+
+
+
+・ID:0007 Gậy gỗ
+【Gậy】Đó là một cây gậy rẻ tiền, phổ biến.
+
+
+・ID:0008 Đũa phép
+【Gậy】Một cây gậy giúp khuếch đại nhẹ năng lượng phép thuật của người sử dụng.
+
+
+・ID:0009 Đũa phép lực
+【Gậy】Một cây gậy bạc giúp khuếch đại năng lượng phép thuật của người sử dụng.
+
+
+・ID:0010 Gậy Mithril
+【Gậy】Đó là một cây gậy mithril giúp khuếch đại năng lượng phép thuật của người sử dụng.
+
+
+・ID:0011 Gậy rồng
+【Gậy】Một cây gậy rồng giúp khuếch đại năng lượng phép thuật của người sử dụng.
+
+
+・ID:0012 
+
+
+
+・ID:0013 Chùy Đá
+【Chùy】Một quả cầu đá được xích vào đầu cán.
+
+
+・ID:0014 Chùy đồng
+【Chùy】Một quả cầu đồng được xích vào đầu cán.
+
+
+・ID:0015 Chùy gai
+【Chùy】Một cây gậy được gia cố bằng thép.
+
+
+・ID:0016 Chùy Mithril
+【Chùy】Một cây gậy liền khối được gia cố bằng mithril.
+
+
+・ID:0017 Chùy Rồng
+【Chùy】Một cây gậy ghép được gia cố bằng Kiba rồng.
+
+
+・ID:0018 
+
+
+
+・ID:0019 Rìu tay
+【Rìu】Đó là một chiếc rìu nhỏ dùng để chặt cây.
+
+
+・ID:0020 Rìu chiến
+【Rìu】Một chiếc rìu hai lưỡi được chế tạo để chiến đấu.
+
+
+・ID:0021 Bardiche
+【Rìu】Một chiếc rìu chiến có lưỡi hình lưỡi liềm.
+
+
+・ID:0022 Rìu Mithril
+【Rìu】Một chiếc rìu chiến làm bằng mithril.
+
+
+・ID:0023 Rìu Rồng
+【Rìu】Một chiếc rìu chiến làm từ Kiba Rồng.
+
+
+・ID:0024 
+
+
+
+・ID:0025 Giáo ngắn
+【Giáo】Một cây giáo ngắn chuyên dùng để đâm.
+
+
+・ID:0026 Giáo dài
+【Giáo】Một cây giáo có cán dài nhất có thể.
+
+
+・ID:0027 Kích
+【Giáo】Một cây giáo có lưỡi rìu gắn ở đầu.
+
+
+・ID:0028 Giáo Mithril
+【Giáo】Một cây giáo làm bằng mithril.
+
+
+・ID:0029 Giáo Rồng
+【Giáo】Một cây giáo làm từ Kiba Rồng.
+
+
+・ID:0030 
+
+
+
+・ID:0031 Sestas
+【Găng tay】Một găng tay chiến đấu có gai trên nắm đấm.
+
+
+・ID:0032 Bagnau
+【Vuốt】Một vũ khí chiến đấu có bốn móng vuốt ngắn gắn vào.
+
+
+・ID:0033 Vuốt sắt
+【Vuốt】Một vũ khí chiến đấu có móng vuốt bằng thép.
+
+
+・ID:0034 Vuốt Mithril
+【Vuốt】Một vũ khí chiến đấu có móng vuốt bằng mithril.
+
+
+・ID:0035 Vuốt Rồng
+【Vuốt】Đó là một vũ khí chiến đấu có móng vuốt rồng.
+
+
+・ID:0036 
+
+
+
+・ID:0037 Cung ngắn
+【Cung】Một cây cung ngắn dùng để săn bắn.
+
+
+・ID:0038 Cung dài
+【Cung】Một cây cung dài chiến đấu với sức mạnh tăng cường.
+
+
+・ID:0039 Nỏ
+【Cung】Một cây nỏ bắn tên bằng lò xo mạnh.
+
+
+・ID:0040 Cung Mithril
+【Cung】Một cây nỏ bắn ra mũi tên mithril bằng lò xo mạnh.
+
+
+・ID:0041 Cung Rồng
+【Cung】Một cây cung dài chiến đấu làm từ râu rồng.
+
+
+・ID:0042 
+
+
+
+・ID:0043 Dao
+【Dao găm】Một con dao có thể dùng trong cuộc sống hàng ngày.
+
+
+・ID:0044 Dao găm
+【Dao găm】Một thanh đoản kiếm dùng trong cận chiến.
+
+
+・ID:0045 Mã tấu
+【Dao găm】Một thanh đoản kiếm có lưỡi dày, chắc chắn.
+
+
+・ID:0046 Dao găm Mithril
+【Dao găm】Một thanh đoản kiếm làm bằng mithril.
+
+
+・ID:0047 Dao găm Rồng
+【Dao găm】Một thanh đoản kiếm làm từ Kiba Rồng.
+
+
+・ID:0048 
+
+
+
+・ID:0049 
+
+
+
+・ID:0050 
+
+
+

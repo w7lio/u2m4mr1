@@ -1,0 +1,147 @@
+・ID:0129 Live2D道場
+001 体勢と服装
+-1ページ目
+Vị trí: Bình thường
+Vị trí: Cúi người về trước
+Quần áo: Trang phục bình thường
+Quần áo: Đồ bơi họa tiết bò sữa
+Trang phục: Khỏa thân
+Hủy bỏ
+0
+1
+2
+3
+4
+5
+
+
+002 行動
+-1ページ目
+Rung ngực
+Mông run rẩy
+Tấn công
+Thiết lập lại
+Hủy bỏ
+0
+1
+2
+3
+4
+
+
+003 モード
+-1ページ目
+Chế độ: Bình thường
+Chế độ: Eroste
+Hủy bỏ
+0
+1
+2
+
+
+004 自動:立ち絵-読み込み
+-1ページ目
+
+-2ページ目
+
+
+005 感情
+-1ページ目
+Cảm xúc: Tức giận: Không biểu thị
+Cảm xúc: Ngạc nhiên
+Cảm xúc: Buồn bã
+Cảm xúc: Tức giận: Biểu thị
+Cảm xúc: Gitome: Đỏ mặt
+Cảm xúc: Mời gọi
+0
+1
+2
+3
+4
+5
+Cảm xúc: Thôi miên: Kakeru
+Cảm xúc: Thôi miên: Tỉnh dậy
+Cảm xúc: Thiết lập lại
+Hủy bỏ
+0
+1
+2
+3
+
+
+006 移動:フィールド確認
+-1ページ目
+
+
+007 立ち絵の表示非表示
+-1ページ目
+Hiển thị ảnh đại diện
+Ẩn ảnh đại diện
+Hủy bỏ
+0
+1
+2
+
+
+008 発情度と依存度の変更
+-1ページ目
+Mức độ hưng phấn hiện tại… \V[0111]Là
+vậy.
+Mức độ phụ thuộc hiện tại\V[0110]Là
+vậy.
+Tăng hưng phấn.
+Giảm hưng phấn.
+Tăng phụ thuộc.
+Giảm phụ thuộc
+Hủy bỏ
+0
+1
+2
+3
+4
+
+
+009 特別
+-1ページ目
+Đặc biệt: Mời gọi
+Đặc biệt: Thiết lập lại
+Hủy bỏ
+0
+1
+2
+
+
+010 モード
+-1ページ目
+Bật đèn cực khoái.
+Tắt đèn cực khoái
+Thiết lập lại
+Hủy bỏ
+0
+1
+2
+3
+
+
+011 視線
+-1ページ目
+Ánh nhìn: Phía trước
+Ánh nhìn:←
+Ánh nhìn: Thiết lập lại
+Hủy bỏ
+0
+1
+2
+3
+
+
+012 特別
+-1ページ目
+Cửa hàng
+Thả ra để thổi kèn.
+Hủy bỏ
+0
+1
+2
+
+

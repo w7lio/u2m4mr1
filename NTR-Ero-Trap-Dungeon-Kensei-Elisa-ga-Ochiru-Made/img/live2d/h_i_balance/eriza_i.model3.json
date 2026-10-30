@@ -1,0 +1,122 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "eriza_i.moc3",
+		"Textures": [
+			"eriza_i.4096/texture_00.png"
+		],
+		"Physics": "eriza_i.physics3.json",
+		"DisplayInfo": "eriza_i.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "通常",
+				"File": "expressions/exp_02.exp3.json"
+			},
+			{
+				"Name": "ジト目",
+				"File": "expressions/exp_03.exp3.json"
+			},
+			{
+				"Name": "顔上げ",
+				"File": "expressions/exp_04.exp3.json"
+			},
+			{
+				"Name": "オッ",
+				"File": "expressions/exp_05.exp3.json"
+			},
+			{
+				"Name": "閉じ目",
+				"File": "expressions/exp_06.exp3.json"
+			}
+		],
+		"Motions": {
+			"Pose": [
+				{
+					"File": "motions/pose_01.motion3.json",
+					"FadeInTime": 0.1,
+					"FadeOutTime": 0.1
+				},
+				{
+					"File": "motions/pose_02.motion3.json",
+					"FadeInTime": 0.1,
+					"FadeOutTime": 0.1
+				},
+				{
+					"File": "motions/pose_03.motion3.json",
+					"FadeInTime": 0.1,
+					"FadeOutTime": 0.1
+				},
+				{
+					"File": "motions/pose_04.motion3.json",
+					"FadeInTime": 0.1,
+					"FadeOutTime": 0.1
+				},
+				{
+					"File": "motions/pose_05.motion3.json",
+					"FadeInTime": 0.1,
+					"FadeOutTime": 0.1
+				}
+			],
+			"Idle": [
+				{
+					"File": "motions/idle_01.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"": [
+				{
+					"File": "motions/idle_02.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/mtn_01.motion3.json"
+				},
+				{
+					"File": "motions/mtn_01-2.motion3.json"
+				},
+				{
+					"File": "motions/mtn_02.motion3.json"
+				},
+				{
+					"File": "motions/mtn_02-2.motion3.json"
+				},
+				{
+					"File": "motions/mtn_02-3.motion3.json"
+				},
+				{
+					"File": "motions/mtn_02-4.motion3.json"
+				},
+				{
+					"File": "motions/mtn_05.motion3.json"
+				},
+				{
+					"File": "motions/mtn_05-2.motion3.json"
+				},
+				{
+					"File": "motions/mtn_06.motion3.json"
+				},
+				{
+					"File": "motions/mtn_07.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

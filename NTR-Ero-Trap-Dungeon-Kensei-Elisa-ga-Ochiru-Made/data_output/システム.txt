@@ -1,0 +1,44 @@
+・防具タイプ000 
+001 Giáp thường
+002 Giáp phép thuật
+003 Giáp nhẹ
+004 Giáp nặng
+005 Khiên nhỏ
+006 Khiên lớn
+
+・属性000 
+001 Vật lý
+002 Lửa
+003 Băng
+004 Sét
+005 Nước
+006 Búa
+007 Gió
+008 Ánh sáng
+009 Bóng tối
+
+・装備タイプ000 
+001 Vũ khí
+002 Khiên
+003 Đầu
+004 Thân
+005 Phụ kiện
+
+・スキルタイプ000 
+001 Phép thuật
+002 Tuyệt kỹ
+
+・武器タイプ000 
+001 Dao găm
+002 Kiếm
+003 Chùy xích
+004 Rìu
+005 Roi
+006 Gậy
+007 Cung
+008 Nỏ
+009 Súng
+010 Móng vuốt
+011 Găng tay
+012 Giáo
+

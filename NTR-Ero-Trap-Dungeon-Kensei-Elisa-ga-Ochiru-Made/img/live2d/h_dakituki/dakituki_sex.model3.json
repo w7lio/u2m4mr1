@@ -1,0 +1,141 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "dakituki_sex.moc3",
+		"Textures": [
+			"dakituki_sex.4096/texture_00.png"
+		],
+		"Physics": "dakituki_sex.physics3.json",
+		"Pose": "dakituki_sex.pose3.json",
+		"DisplayInfo": "dakituki_sex.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "exp_kiss_01",
+				"File": "expressions/exp_kiss_01.exp3.json"
+			},
+			{
+				"Name": "exp_kiss_01_close",
+				"File": "expressions/exp_kiss_01_close.exp3.json"
+			},
+			{
+				"Name": "exp_kiss_02",
+				"File": "expressions/exp_kiss_02.exp3.json"
+			},
+			{
+				"Name": "exp_kiss_02_close",
+				"File": "expressions/exp_kiss_02_close.exp3.json"
+			},
+			{
+				"Name": "exp_kiss_03",
+				"File": "expressions/exp_kiss_03.exp3.json"
+			},
+			{
+				"Name": "exp_kiss_03_close",
+				"File": "expressions/exp_kiss_03_close.exp3.json"
+			},
+			{
+				"Name": "exp_00",
+				"File": "expressions/exp_00.exp3.json"
+			},
+			{
+				"Name": "exp_01",
+				"File": "expressions/exp_01.exp3.json"
+			},
+			{
+				"Name": "exp_02",
+				"File": "expressions/exp_02.exp3.json"
+			},
+			{
+				"Name": "exp_kiss_01_zitome",
+				"File": "expressions/exp_kiss_01_zitome.exp3.json"
+			},
+			{
+				"Name": "exp_kiss_02_zitome",
+				"File": "expressions/exp_kiss_02_zitome.exp3.json"
+			},
+			{
+				"Name": "exp_kiss_03_zitome",
+				"File": "expressions/exp_kiss_03_zitome.exp3.json"
+			},
+			{
+				"Name": "exp_03",
+				"File": "expressions/exp_03.exp3.json"
+			},
+			{
+				"Name": "exp_04",
+				"File": "expressions/exp_04.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "motions/mtn_only_02.motion3.json"
+				},
+				{
+					"File": "motions/mtn_only_01.motion3.json"
+				},
+				{
+					"File": "pose/pose_02.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "pose/pose_03.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "pose/pose_04.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/mtn_only_03.motion3.json"
+				},
+				{
+					"File": "motions/mtn_special_02.motion3.json",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				},
+				{
+					"File": "motions/mtn_special_03.motion3.json",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				},
+				{
+					"File": "motions/mtn_special_01.motion3.json",
+					"FadeInTime": 0.5,
+					"FadeOutTime": 0.5
+				},
+				{
+					"File": "pose/pose_01.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				},
+				{
+					"File": "motions/mtn_special_04_freeze.motion3.json"
+				}
+			],
+			"Idle": [
+				{
+					"File": "motions/mtn_idle_00.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

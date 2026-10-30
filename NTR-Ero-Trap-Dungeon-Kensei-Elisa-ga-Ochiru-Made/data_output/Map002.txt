@@ -1,0 +1,225 @@
+・ID:0002 Live2D道場（表情）
+001 体勢と服装
+-1ページ目
+Vị trí: Bình thường
+Vị trí: Cúi người về trước
+Quần áo: Trang phục bình thường
+Quần áo: Đồ bơi họa tiết bò sữa
+Trang phục: Khỏa thân
+Hủy bỏ
+0
+1
+2
+3
+4
+5
+
+
+002 行動
+-1ページ目
+Rung ngực
+Mông run rẩy
+Tấn công
+Thiết lập lại
+Hủy bỏ
+0
+1
+2
+3
+4
+
+
+003 モード
+-1ページ目
+Chế độ: Bình thường
+Chế độ: Eroste
+Hủy bỏ
+0
+1
+2
+
+
+004 自動:立ち絵-読み込み
+-1ページ目
+
+-2ページ目
+
+
+005 感情
+-1ページ目
+Cảm xúc: Tức giận: Không biểu thị
+Cảm xúc: Ngạc nhiên
+Cảm xúc: Buồn bã
+Cảm xúc: Tức giận: Biểu thị
+Cảm xúc: Gitome: Đỏ mặt
+Cảm xúc: Mời gọi
+0
+1
+2
+3
+4
+5
+Cảm xúc: Thôi miên: Kakeru
+Cảm xúc: Thôi miên: Tỉnh dậy
+Cảm xúc: Thiết lập lại
+Hủy bỏ
+0
+1
+2
+3
+
+
+006 移動:フィールド確認
+-1ページ目
+
+
+007 立ち絵の表示非表示
+-1ページ目
+Hiển thị ảnh đại diện
+Ẩn ảnh đại diện
+Hủy bỏ
+0
+1
+2
+
+
+008 発情度と依存度の変更
+-1ページ目
+Mức độ hưng phấn hiện tại… \V[0111]Là
+vậy.
+Mức độ phụ thuộc hiện tại\V[0110]Là
+vậy.
+Tăng hưng phấn.
+Giảm hưng phấn.
+Tăng phụ thuộc.
+Giảm phụ thuộc
+Hủy bỏ
+0
+1
+2
+3
+4
+
+
+009 特別
+-1ページ目
+Đặc biệt: Mời gọi
+Đặc biệt: Thiết lập lại
+Hủy bỏ
+0
+1
+2
+
+
+010 モード
+-1ページ目
+Bật đèn cực khoái.
+Tắt đèn cực khoái
+Thiết lập lại
+Hủy bỏ
+0
+1
+2
+3
+
+
+011 視線
+-1ページ目
+Ánh nhìn: Phía trước
+Ánh nhìn:←
+Ánh nhìn: Thiết lập lại
+Hủy bỏ
+0
+1
+2
+3
+
+
+012 感情２
+-1ページ目
+Cảm xúc: Doya
+Cảm xúc: Tức giận: Miệng ngậm
+Cảm xúc: Ngạc nhiên
+Cảm xúc: Thương hại
+Cảm xúc: Gitome: Đỏ mặt
+Cảm xúc: Tức giận
+0
+1
+2
+3
+4
+5
+Cảm xúc: Mời gọi
+Cảm xúc: Thôi miên
+Cảm xúc: Tỉnh dậy khỏi thôi miên
+Cảm xúc: Thiết lập
+Cảm xúc: Thiết lập lại
+Cảm xúc: Poh: Miệng mở
+0
+1
+2
+3
+4
+5
+Cảm xúc: Gitome: Đỏ: Mở miệng
+Cảm xúc: Poh: Ngậm miệng
+Cảm xúc: Tức giận: Shinmyou
+Cảm xúc: Tức giận: Mở miệng
+Cảm xúc: Tức giận: Hả？!
+Cảm xúc: Tức giận: Đỏ: Nhắm mắt
+0
+1
+2
+3
+4
+5
+Cảm xúc: Tức giận: Sốt ruột: Nhắm mắt
+Cảm xúc: Tức giận: Sốt ruột: Shinmyou
+Cảm xúc: Tức giận: Sốt ruột: Ngạc nhiên
+Cảm xúc: Tức giận: Sốt ruột: Nhắm mắt: Miệng ngậm:
+Cảm xúc: Tức giận: Mở miệng
+Cảm xúc: Cay đắng
+0
+1
+2
+3
+4
+5
+
+
+013 特別
+-1ページ目
+Cửa hàng
+Eroste hiển thị đầy đủ
+Eroste, giải phóng hoàn toàn.
+Eroste toàn bộ hoạt động
+0
+1
+2
+3
+
+
+014 尻揉み
+-1ページ目
+Cài đặt
+Lặp lại massage mông
+Rose, massage mông tôi.
+Tư thế móc ngón tay
+Hand man co giật chậm.
+Hand man, chậm, mạnh.
+0
+1
+2
+3
+4
+5
+Móc ngón tay, nhanh lên.
+Exp-tắt lau
+Exp-bật lau.
+Hủy bỏ
+0
+1
+2
+3
+
+

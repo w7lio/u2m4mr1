@@ -1,0 +1,61 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "pisuton_mission.moc3",
+		"Textures": [
+			"pisuton_mission.4096/texture_00.png"
+		],
+		"Physics": "pisuton_mission.physics3.json",
+		"DisplayInfo": "pisuton_mission.cdi3.json",
+		"Motions": {
+			"": [
+				{
+					"File": "motions/idle_1.motion3.json"
+				},
+				{
+					"File": "motions/idle_2.motion3.json"
+				},
+				{
+					"File": "motions/mtn_1.motion3.json"
+				},
+				{
+					"File": "motions/mtn_1-2.motion3.json"
+				},
+				{
+					"File": "motions/mtn_1-3.motion3.json"
+				},
+				{
+					"File": "motions/mtn_2-1.motion3.json"
+				},
+				{
+					"File": "motions/mtn_2-2.motion3.json"
+				},
+				{
+					"File": "motions/mtn_3.motion3.json"
+				},
+				{
+					"File": "motions/pose_1.motion3.json"
+				},
+				{
+					"File": "motions/pose_2.motion3.json"
+				},
+				{
+					"File": "motions/pose_3.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

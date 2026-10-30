@@ -1,0 +1,210 @@
+・ID:0001 戦闘不能
+%1 đã ngã xuống!
+%1 đã bị đánh bại!
+
+%1 đã đứng dậy!
+ステート1番はHP0のときに付加されます。
+
+・ID:0002 防御
+
+
+
+
+
+
+・ID:0003 不死身
+
+
+
+
+
+
+・ID:0004 毒
+%1 bị trúng độc!
+Đã đầu độc %1!
+
+%1 đã hết trúng độc!
+
+
+・ID:0005 暗闇
+%1 bị bao phủ bởi bóng tối!
+%1 bị bao phủ bởi bóng tối!
+
+Bóng tối quanh %1 đã tan biến!
+
+
+・ID:0006 沈黙
+%1 bị câm lặng!
+Đã câm lặng %1!
+
+Sự câm lặng của %1 đã bị phá vỡ!
+
+
+・ID:0007 激昂
+%1 đã nổi điên!
+%1 đã nổi điên!
+
+%1 đã bình tĩnh trở lại!
+
+
+・ID:0008 混乱
+%1 bị hỗn loạn!
+Đã gây hỗn loạn %1!
+
+%1 đã bình tĩnh trở lại!
+
+
+・ID:0009 魅了
+%1 bị mê hoặc!
+%1 bị mê hoặc!
+
+%1 đã bình tĩnh trở lại!
+
+
+・ID:0010 睡眠
+%1 đang ngủ say!
+%1 đang ngủ!
+%1 đang ngủ.
+%1 đã thức dậy!
+
+
+・ID:0011 
+
+
+
+
+
+
+・ID:0012 麻痺
+%1 bị tê liệt, không thể di chuyển!
+%1 bị tê liệt!
+Cơ thể %1 bị tê cứng, không thể cử động!
+Tình trạng tê liệt của %1 đã biến mất!
+
+
+・ID:0013 スタン
+%1 mất thăng bằng!
+%1 mất thăng bằng!
+%1 đang mất thăng bằng…
+%1 đã lấy lại thăng bằng!
+
+
+・ID:0014 
+
+
+
+
+
+
+・ID:0015 HP再生
+
+
+
+
+
+
+・ID:0016 MP再生
+
+
+
+
+
+
+・ID:0017 TP再生
+
+
+
+
+
+
+・ID:0018 魔法反射
+
+
+
+
+
+
+・ID:0019 かばう
+
+
+
+
+
+
+・ID:0020 挑発
+%1 dễ bị nhắm mục tiêu hơn!
+
+
+
+
+
+・ID:0021 隠れる
+%1 ít có khả năng bị nhắm mục tiêu hơn!
+
+
+
+
+
+・ID:0022 反撃
+
+
+
+
+
+
+・ID:0023 状態異常防止
+
+
+
+
+
+
+・ID:0024 消費MP減
+
+
+
+
+
+
+・ID:0025 炎の力
+%1 có sức mạnh của lửa.
+%1 có sức mạnh của lửa.
+
+
+
+
+・ID:0026 氷の力
+%1 có sức mạnh của băng.
+%1 có sức mạnh của băng.
+
+
+
+
+・ID:0027 雷の力
+%1 được bao bọc bởi sức mạnh của sét.
+%1 được bao bọc bởi sức mạnh của sét.
+
+
+
+
+・ID:0028 
+
+
+
+
+
+
+・ID:0029 エンカウント半減
+
+
+
+
+
+
+・ID:0030 賞金・アイテム2倍
+
+
+
+
+
+
