@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Men","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Men","traits":[],"initialLevel":1,"maxLevel":99,"name":"Matthias","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Women","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Women","traits":[],"initialLevel":1,"maxLevel":99,"name":"Seika","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"Women","classId":3,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"Women","traits":[],"initialLevel":1,"maxLevel":99,"name":"Katie","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":4,"characterName":"Men","classId":4,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Men","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marcus","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":1,"characterName":"Men","classId":6,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Men","traits":[],"initialLevel":1,"maxLevel":99,"name":"Duokuma","nickname":"Halfbear","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":2,"characterName":"Women","classId":6,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Women","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mia ","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":3,"characterName":"Men","classId":7,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Men","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sam","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":3,"characterName":"Women","classId":8,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Women","traits":[],"initialLevel":1,"maxLevel":99,"name":"Stacy","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":4,"characterName":"Women","classId":9,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Women","traits":[],"initialLevel":1,"maxLevel":99,"name":"Chise","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":6,"characterName":"Women","classId":7,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Women2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Keiko","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":5,"characterName":"Women","classId":10,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Women","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hina","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":7,"characterName":"Women","classId":14,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Women2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Angelina","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":6,"characterName":"Men","classId":13,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Men","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bakugen","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":5,"characterName":"Men","classId":12,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Men","traits":[],"initialLevel":1,"maxLevel":99,"name":"Dave","nickname":"","note":"","profile":""},
+{"id":15,"battlerName":"","characterIndex":0,"characterName":"Women2","classId":11,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"Women","traits":[],"initialLevel":1,"maxLevel":99,"name":"Touka","nickname":"","note":"","profile":""},
+{"id":16,"battlerName":"","characterIndex":2,"characterName":"Men","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Men","traits":[],"initialLevel":1,"maxLevel":99,"name":"Luke","nickname":"","note":"","profile":""},
+{"id":17,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":18,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":19,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":20,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
